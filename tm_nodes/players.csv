@@ -1,477 +1,477 @@
-id,name,age,nationality,jerseyNumber,height,weight,preferred_foot,preferred_positions,market_value,overall_rating,minutes_played,current_club_id
-665738,"Ayoub Khairi",25,"Morocco",None,0,None,"","Central Midfield","€1.20m",None,None,37176
-732950,"Oussama Lamlioui",29,"Morocco",None,180,None,"both","Centre-Forward","€900k",None,None,37176
-1110732,"Soumaila Sidibe",28,"Mali",None,178,None,"right","Defensive Midfield","€500k",None,None,37176
-885704,"Kamal Bilal",27,"Morocco",None,0,None,"","Goalkeeper","€10k",None,None,37176
-599573,"Mehdi Maftah",32,"Morocco",None,190,None,"right","Goalkeeper","€300k",None,None,37176
-1044891,"Amine Azri",30,"Morocco",None,183,None,"left","Right Winger","€450k",None,None,37176
-468244,"Rayane Aabid",33,"France",None,178,None,"right","Central Midfield","€75k",None,None,37176
-519192,"Mohamed El Morabit",27,"Morocco",None,179,None,"right","Attacking Midfield","€500k",None,None,37176
-838829,"Imad Riahi",25,"Morocco",None,178,None,"right","Right Winger","€450k",None,None,37176
-522302,"Yassine Labhiri",31,"Morocco",None,178,None,"right","Attacking Midfield","€750k",None,None,37176
-842418,"Abdelhak Assal",27,"Morocco",None,190,None,"right","Centre-Back","€800k",None,None,37176
-191407,"Oussama Haddadi",33,"Tunisia",None,185,None,"left","Centre-Back","€175k",None,None,37176
-776215,"Mamadou Lamine Camara",22,"Senegal",None,193,None,"right","Defensive Midfield","€1.40m",None,None,37176
-1091178,"Mohamed Ouyahia",20,"Morocco",None,176,None,"left","Central Midfield","€25k",None,None,37176
-665744,"Et-Tayeb Boukhriss",26,"Morocco",None,177,None,"right","Right-Back","€500k",None,None,37176
-847288,"Paul Bassène",24,"Senegal",None,182,None,"left","Centre-Forward","€350k",None,None,37176
-1210200,"Youness El Kaabi",25,"Morocco",None,185,None,"right","Centre-Forward","€75k",None,None,37176
-348772,"Hamza El Moussaoui",32,"Morocco",None,181,None,"","Left-Back","€800k",None,None,37176
-355641,"Mounir Chouiar",26,"Morocco",None,177,None,"right","Left Winger","€2.80m",None,None,37176
-97925,"Munir El Kajoui",36,"Morocco",None,190,None,"right","Goalkeeper","€700k",None,None,37176
-1165481,"Amine El Maswab",25,"Morocco",None,0,None,"left","Centre-Back","€100k",None,None,37176
-373594,"Mohamed Aymen Sadil",31,"Morocco",None,0,None,"left","Left-Back","€50k",None,None,37176
-836640,"Haytam Manaout",24,"Morocco",None,179,None,"right","Right-Back","€1.20m",None,None,37176
-575594,"Ismaël Kandouss",28,"Morocco",None,192,None,"YSI Football","Centre-Back","€1.80m",None,None,37176
-868636,"Youssef Mehri",26,"Morocco",None,177,None,"","Left Winger","€1.00m",None,None,37176
-882910,"Reda Hajji",25,"Morocco",None,0,None,"right","Attacking Midfield","€100k",None,None,37176
-146143,"Zinédine Machach",29,"France",None,185,None,"right","Attacking Midfield","€650k",None,None,37176
-240708,"Walid Sabbar",29,"Morocco",None,177,None,"right","Central Midfield","€400k",None,None,6603
-667970,"Oussama Zemraoui",23,"Morocco",None,175,None,"left","Central Midfield","€650k",None,None,6603
-330726,"Thembinkosi Lorch",32,"South Africa",None,168,None,"right","Left Winger","€450k",None,None,6603
-800363,"Mohamed Moufid",25,"Morocco",None,173,None,"right","Right-Back","€900k",None,None,6603
-273432,"Mohamed Rayhi",31,"Netherlands",None,178,None,"YSI Football","Left Winger","€650k",None,None,6603
-441982,"Hamza Elowasti",30,"Morocco",None,186,None,"right","Left Winger","€400k",None,None,6603
-513275,"Tumisang Orebonye",29,"Botswana",None,180,None,"right","Centre-Forward","€400k",None,None,6603
-728597,"Guilherme Ferreira",26,"Brazil",None,194,None,"right","Centre-Back","€400k",None,None,6603
-353476,"Abdelali Mhamdi",34,"Morocco",None,192,None,"YSI Football","Goalkeeper","€400k",None,None,6603
-245194,"Ayoub Boucheta",32,"Morocco",None,171,None,"left","Left-Back","€550k",None,None,6603
-517712,"Hamza Hannouri",27,"Morocco",None,188,None,"","Centre-Forward","€600k",None,None,6603
-1235899,"Mohammed El Jadidi",21,"Morocco",None,190,None,"right","Centre-Back","€175k",None,None,6603
-1330446,"Rayane Mahtou",20,"Morocco",None,184,None,"both","Defensive Midfield","€10k",None,None,6603
-1005645,"Pedrinho",21,"Brazil",None,172,None,"right","Attacking Midfield","€400k",None,None,6603
-1274628,"Walid Atik",24,"Morocco",None,176,None,"right","Right-Back","€10k",None,None,6603
-342719,"Bart Meijers",28,"Netherlands",None,185,None,"YSI Football","Centre-Back","€700k",None,None,6603
-732953,"Youssef El Motie",31,"Morocco",None,193,None,"right","Goalkeeper","€700k",None,None,6603
-217111,"Hakim Ziyech",32,"Morocco",None,180,None,"left","Right Winger","€3.00m",None,None,6603
-544414,"El Mehdi Benabid",27,"Morocco",None,188,None,"right","Goalkeeper","€1.50m",None,None,6603
-1253671,"Mouad Enzo",24,"Morocco",None,175,None,"right","Attacking Midfield","€25k",None,None,6603
-263951,"Hamza Sakhi",29,"Morocco",None,176,None,"right","Attacking Midfield","€800k",None,None,6603
-240707,"Zouhair El Moutaraji",29,"Morocco",None,182,None,"right","Left Winger","€225k",None,None,6603
-881744,"Mohamed El Ouardi",25,"Morocco",None,172,None,"right","Left Winger","€25k",None,None,6603
-916708,"Walid Nassi",25,"Morocco",None,182,None,"left","Right Winger","€275k",None,None,6603
-546225,"Mohamed Bouchouari",25,"Belgium",None,170,None,"right","Right-Back","€550k",None,None,6603
-382417,"Stephane Aziz Ki",29,"Burkina Faso",None,175,None,"left","Attacking Midfield","€300k",None,None,6603
-743585,"Arthur Wenderroscky",20,"Brazil",None,170,None,"left","Attacking Midfield","€450k",None,None,6603
-925782,"Abdelghafour Lamirat",28,"Morocco",None,181,None,"","Defensive Midfield","€600k",None,None,6603
-681691,"Amine Aboulfath",28,"Morocco",None,183,None,"right","Centre-Back","€550k",None,None,6603
-55619,"Nordin Amrabat",38,"Morocco",None,178,None,"right","Right Winger","€125k",None,None,6603
-1311408,"Omar Aqzdaou",22,"Morocco",None,198,None,"YSI Football","Goalkeeper","€25k",None,None,6603
-1302206,"Joseph Bakasu",22,"DR Congo",None,184,None,"right","Central Midfield","€200k",None,None,6603
-974042,"Younes Najari",29,"Morocco",None,186,None,"left","Right Winger","€400k",None,None,2068
-1150962,"Mouad Dahak",20,"Morocco",None,165,None,"right","Left Winger","€900k",None,None,2068
-262685,"Moses Orkuma",31,"Nigeria",None,0,None,"right","Defensive Midfield","€700k",None,None,2068
-822538,"El Mehdi Al Harrar",25,"Morocco",None,192,None,"right","Goalkeeper","€750k",None,None,2068
-240712,"Khalid Kbiri Alaoui",29,"Morocco",None,192,None,"","Goalkeeper","€550k",None,None,2068
-617592,"Ismail Mokadem",30,"Morocco",None,181,None,"right","Centre-Back","€500k",None,None,2068
-274235,"Mohamed Al-Makahasi",30,"Morocco",None,177,None,"right","Central Midfield","€800k",None,None,2068
-241324,"Bilal Ould-Chikh",28,"Morocco",None,170,None,"left","Right Winger","€800k",None,None,2068
-1274436,"Ayoub Maamouri",25,"Morocco",None,170,None,"right","Right Winger","€400k",None,None,2068
-738952,"Hilal Ferdaoussi",26,"Morocco",None,177,None,"right","Central Midfield","€400k",None,None,2068
-560873,"Mohamed Boulacsout",27,"Morocco",None,179,None,"both","Right-Back","€800k",None,None,2068
-847308,"Pape Ousmane Sakho",29,"Senegal",None,173,None,"right","Left Winger","€75k",None,None,2068
-679259,"Víctor Ábrego",28,"Bolivia",None,176,None,"right","Centre-Forward","€300k",None,None,2068
-904603,"Othmane Chraibi",22,"Morocco",None,174,None,"YSI Football","Defensive Midfield","€275k",None,None,2068
-569755,"Abdellah Khafifi",32,"Morocco",None,183,None,"right","Centre-Back","€600k",None,None,2068
-518804,"Youssef Belammari",27,"Morocco",None,183,None,"left","Left-Back","€1.50m",None,None,2068
-969934,"Bouchaib Arrassi",25,"Morocco",None,0,None,"right","Centre-Back","€325k",None,None,2068
-238634,"Adam Ennaffati",31,"Morocco",None,180,None,"right","Left Winger","€900k",None,None,2068
-371606,"Abdelkarim Baadi",29,"Morocco",None,173,None,"left","Right-Back","€325k",None,None,2068
-988205,"Mehdi Mchakhchekh",21,"Morocco",None,183,None,"right","Centre-Back","€400k",None,None,2068
-245193,"Badr Benoun",32,"Morocco",None,193,None,"right","Centre-Back","€900k",None,None,2068
-913377,"Yassine Zoubir",23,"Morocco",None,192,None,"right","Goalkeeper","€10k",None,None,2068
-707310,"Ismail Khafi",30,"Morocco",None,183,None,"","Centre-Forward","€450k",None,None,2068
-318904,"Sabir Bougrine",29,"Morocco",None,174,None,"right","Attacking Midfield","€700k",None,None,2068
-1079652,"Ayoub Ait Khassou",21,"Morocco",None,0,None,"right","Centre-Back","€50k",None,None,9099
-876730,"Nouh Mohamed El Abd",25,"Mauritania",None,186,None,"right","Centre-Back","€250k",None,None,9099
-711572,"Zineddine Derrag",26,"Morocco",None,171,None,"right","Defensive Midfield","€900k",None,None,9099
-199704,"Yunis Abdelhamid",38,"Morocco",None,190,None,"left","Centre-Back","€350k",None,None,9099
-507374,"Ahmed Hammoudan",34,"Morocco",None,177,None,"right","Left Winger","€400k",None,None,9099
-573065,"Tó Carneiro",30,"Angola",None,170,None,"left","Left-Back","€500k",None,None,9099
-859133,"Ayoub El Khayati",27,"Morocco",None,191,None,"right","Goalkeeper","€400k",None,None,9099
-371211,"Hamza Khabba",29,"Morocco",None,187,None,"right","Centre-Forward","€550k",None,None,9099
-553100,"Mohamed Rabie Hrimat",31,"Morocco",None,186,None,"right","Defensive Midfield","€1.50m",None,None,9099
-1105266,"Zakaria Ajoughlal",24,"Morocco",None,0,None,"left","Attacking Midfield","€50k",None,None,9099
-238997,"Ahmed Reda Tagnaouti",29,"Morocco",None,192,None,"right","Goalkeeper","€700k",None,None,9099
-660041,"Youssef El Fahli",28,"Morocco",None,182,None,"right","Left Winger","€1.00m",None,None,9099
-711281,"Abdelfettah Hadraf",27,"Morocco",None,0,None,"","Central Midfield","€500k",None,None,9099
-518802,"Anas Bach",27,"Morocco",None,176,None,"right","Defensive Midfield","€1.50m",None,None,9099
-689431,"Reda Slim",26,"Morocco",None,176,None,"right","Right Winger","€1.30m",None,None,9099
-631508,"Khalid Aït Ouarkhane",25,"Morocco",None,179,None,"right","Attacking Midfield","€800k",None,None,9099
-742502,"Achref Habbassi",24,"Tunisia",None,177,None,"left","Right Winger","€325k",None,None,9099
-872090,"Mouhcine Bouriga",25,"Morocco",None,183,None,"right","Centre-Forward","€200k",None,None,9099
-518801,"Marouane Louadni",30,"Morocco",None,190,None,"right","Centre-Back","€600k",None,None,9099
-635927,"Fallou Mendy",25,"Senegal",None,185,None,"left","Centre-Back","€350k",None,None,9099
-904465,"Taoufik Razko",23,"Morocco",None,0,None,"right","Central Midfield","€250k",None,None,9099
-734155,"Jamal Ech-Chamakh",25,"Morocco",None,0,None,"","Left-Back","€550k",None,None,9099
-1299944,"Destin Maniriho",26,"Burundi",None,0,None,"","Left Winger","€10k",None,None,9099
-1055358,"Soulaimane El Bouchqali",22,"Morocco",None,182,None,"right","Attacking Midfield","€450k",None,None,9099
-366744,"Lamine Diakité",34,"Cote d'Ivoire",None,184,None,"left","Left Winger","€325k",None,None,6371
-799742,"Salaheddine Benyachou",26,"Morocco",None,168,None,"right","Right Winger","€200k",None,None,6371
-816064,"Mouad Bahsain",26,"Morocco",None,180,None,"left","Left-Back","€450k",None,None,6371
-1134249,"Taha Benrhozil",19,"Morocco",None,180,None,"right","Goalkeeper","€200k",None,None,6371
-738951,"Amine Souane",24,"Morocco",None,182,None,"right","Right Winger","€1.00m",None,None,6371
-556272,"Ayoub Lakred",30,"Morocco",None,0,None,"right","Goalkeeper","€350k",None,None,6371
-844795,"Ali El Harrak",28,"Morocco",None,0,None,"both","Centre-Forward","€300k",None,None,6371
-737182,"Oussama Soukhane",26,"Morocco",None,0,None,"left","Left-Back","€650k",None,None,6371
-593405,"Ismail Moutaraji",25,"Morocco",None,183,None,"left","Attacking Midfield","€350k",None,None,6371
-1232068,"Soufiane Tazi",21,"Morocco",None,181,None,"right","Central Midfield","€600k",None,None,6371
-627926,"Hodifa El Mahssani",26,"Morocco",None,175,None,"right","Right-Back","€650k",None,None,6371
-1055193,"Yassine Amhih",22,"Morocco",None,0,None,"","Centre-Back","€400k",None,None,6371
-1039603,"Mohamed El Badoui",26,"Morocco",None,184,None,"right","Centre-Forward","€300k",None,None,6371
-834876,"Amine Farhane",27,"Morocco",None,189,None,"right","Centre-Back","€275k",None,None,6371
-1150961,"Anas El Makkaoui",20,"Morocco",None,181,None,"both","Defensive Midfield","€125k",None,None,6371
-507134,"Amine El Msane",31,"Morocco",None,0,None,"left","Defensive Midfield","€600k",None,None,6371
-1203514,"Arthur Gitego",23,"Rwanda",None,190,None,"","Centre-Forward","€50k",None,None,6371
-838828,"Moncef Amri",32,"Morocco",None,180,None,"left","Left-Back","€325k",None,None,6371
-844300,"Ayoub Mouloua",23,"Morocco",None,183,None,"right","Centre-Forward","€700k",None,None,6371
-920971,"Chouaib Faidi",26,"Morocco",None,0,None,"right","Left Winger","€225k",None,None,6371
-717213,"Anas Serrhat",29,"Morocco",None,178,None,"","Defensive Midfield","€750k",None,None,6371
-667994,"Oussama Raoui",23,"Morocco",None,176,None,"right","Right-Back","€225k",None,None,6371
-981522,"Rachid Ghanimi",24,"Morocco",None,189,None,"","Goalkeeper","€400k",None,None,6371
-811084,"Abdessamad Mahir",28,"Morocco",None,176,None,"right","Central Midfield","€650k",None,None,6371
-508643,"Soulyman Allouch",23,"Netherlands",None,174,None,"right","Left Winger","€550k",None,None,3282
-913361,"Soufiane Benjdida",24,"Morocco",None,178,None,"right","Centre-Forward","€700k",None,None,3282
-262953,"Adil Rhaili",34,"Morocco",None,192,None,"left","Centre-Back","€125k",None,None,3282
-290768,"Kevin Yamga",29,"France",None,187,None,"right","Right Winger","€700k",None,None,3282
-339552,"Kabelo Seakanyeng",32,"Botswana",None,175,None,"right","Left Winger","€400k",None,None,3282
-1091104,"Nizar Guessous",22,"Morocco",None,174,None,"left","Attacking Midfield","€10k",None,None,3282
-1341102,"Walid Laghrissi",17,"Morocco",None,0,None,"","Goalkeeper","",None,None,3282
-682847,"Benjamin Tanimu",23,"Nigeria",None,185,None,"right","Centre-Back","€225k",None,None,3282
-308265,"Anas Tahiri",30,"Morocco",None,179,None,"right","Central Midfield","€450k",None,None,3282
-1176891,"Youssef Dalouzi",23,"Morocco",None,182,None,"both","Right Winger","€175k",None,None,3282
-1317548,"Akram Khlifi",21,"Morocco",None,0,None,"","Midfield","€10k",None,None,3282
-1176890,"Oussama Noureddine",24,"Morocco",None,180,None,"right","Defensive Midfield","€400k",None,None,3282
-721818,"Reda Mhannaoui",26,"Morocco",None,171,None,"right","Right-Back","€225k",None,None,3282
-863795,"Marouane Ouhrou",23,"Morocco",None,178,None,"left","Left-Back","€325k",None,None,3282
-858584,"Hamza Afsal",29,"Morocco",None,184,None,"both","Central Midfield","€500k",None,None,3282
-712126,"Aymane Chbani",27,"Morocco",None,189,None,"right","Centre-Back","€200k",None,None,3282
-689435,"Abdelilah Madkour",25,"Morocco",None,0,None,"right","Right-Back","€350k",None,None,3282
-1174262,"Driss El Jabli",27,"Morocco",None,187,None,"right","Centre-Back","€400k",None,None,3282
-1115476,"Zakaria Allaoui",19,"Morocco",None,0,None,"right","Centre-Forward","€10k",None,None,3282
-367149,"Achraf Harmach",32,"Morocco",None,176,None,"","Central Midfield","€500k",None,None,3282
-1344495,"Privat Djéssan Bi",22,"Cote d'Ivoire",None,182,None,"right","Centre-Forward","€10k",None,None,3282
-1235905,"Oussama Errahmany",22,"Morocco",None,195,None,"both","Goalkeeper","€175k",None,None,3282
-255642,"Saad Ait Khorsa",31,"Morocco",None,186,None,"left","Centre-Back","€350k",None,None,3282
-692591,"Hamza Ait Allal",25,"Morocco",None,184,None,"right","Right-Back","€350k",None,None,3282
-1370739,"Adam Brika",0,"Morocco",None,0,None,"","Midfield","€250k",None,None,3282
-306668,"Amine Oudrhiri",33,"Morocco",None,184,None,"right","Defensive Midfield","€275k",None,None,3282
-1091105,"Mohamed Loumim",24,"Morocco",None,0,None,"","Attacking Midfield","€10k",None,None,3282
-356586,"Salaheddine Chihab",32,"Morocco",None,198,None,"right","Goalkeeper","€1.00m",None,None,3282
-1139810,"Issa M'Bareck",21,"Mauritania",None,0,None,"","Attacking Midfield","€10k",None,None,3282
-1266261,"Mouad Hmamouchi",0,"Morocco",None,0,None,"left","Right Winger","€10k",None,None,3282
-842564,"El Habib Brija",25,"Morocco",None,0,None,"","Attacking Midfield","€350k",None,None,3282
-343949,"Zakaria Hamadi",27,"Italy",None,182,None,"left","Left-Back","€300k",None,None,3282
-1055339,"Redouan Ait Lamkadem",28,"Morocco",None,175,None,"both","Left Midfield","€500k",None,None,79389
-713000,"Yassine El Khalej",26,"Morocco",None,190,None,"right","Centre-Back","€300k",None,None,79389
-235602,"Abderahmane El Houasli",41,"Morocco",None,185,None,"right","Goalkeeper","€25k",None,None,79389
-1332783,"Zoubir Housni",19,"Morocco",None,174,None,"right","Left Winger","€25k",None,None,79389
-1175868,"Souhayl Zamrat",23,"Morocco",None,18,None,"left","Attacking Midfield","€150k",None,None,79389
-1267107,"Ayoub Achab",23,"Morocco",None,185,None,"right","Defensive Midfield","€10k",None,None,79389
-727209,"Banfa Sylla",29,"Cote d'Ivoire",None,183,None,"right","Defensive Midfield","€200k",None,None,79389
-667999,"Anas Nanah",22,"Morocco",None,177,None,"left","Left-Back","€225k",None,None,79389
-1245251,"Zakaria Kassary",19,"Morocco",None,0,None,"right","Central Midfield","€150k",None,None,79389
-1134255,"Fouad Zahouani",19,"Morocco",None,180,None,"left","Left-Back","€1.00m",None,None,79389
-904578,"Hassan Aqboub",21,"Morocco",None,173,None,"both","Left Winger","€100k",None,None,79389
-943495,"Tahar Ahmed El Khalej",28,"Portugal",None,191,None,"left","Centre-Back","€350k",None,None,79389
-1066475,"Youssef Kajai",27,"Morocco",None,189,None,"right","Centre-Back","€450k",None,None,79389
-1267109,"Youness Dahmani",25,"Morocco",None,0,None,"","Left Winger","€250k",None,None,79389
-276255,"Yacine Bammou",34,"Morocco",None,189,None,"right","Centre-Forward","€225k",None,None,79389
-869457,"Walid Hasbi",21,"Morocco",None,198,None,"right","Goalkeeper","",None,None,79389
-1430198,"Salim Ghazzani",22,"Morocco",None,0,None,"","Right Winger","€25k",None,None,79389
-593478,"Hamza Bousqal",24,"Morocco",None,0,None,"","Defensive Midfield","€25k",None,None,79389
-1074351,"Hossam Essadak",20,"Morocco",None,180,None,"left","Attacking Midfield","€1.00m",None,None,79389
-537209,"Hamza Regragui",28,"Morocco",None,190,None,"both","Centre-Back","€350k",None,None,79389
-1180814,"Khalid Kasbi",18,"Morocco",None,185,None,"right","Centre-Back","€50k",None,None,79389
-1443774,"Zakaria Aiada",26,"Morocco",None,0,None,"","Right-Back","€10k",None,None,79389
-848947,"Danny",25,"Portugal",None,176,None,"right","Attacking Midfield","€125k",None,None,79389
-667966,"Mohamed Amine Essahel",22,"Morocco",None,0,None,"right","Attacking Midfield","€500k",None,None,79389
-245346,"Brahim El Bahraoui",33,"Morocco",None,177,None,"","Centre-Forward","€200k",None,None,79389
-64490,"Ilias Haddad",36,"Netherlands",None,187,None,"right","Centre-Back","€150k",None,None,79389
-708663,"Tiago Lopes",26,"Portugal",None,185,None,"right","Centre-Forward","€25k",None,None,79389
-1443785,"Ahmed Aboulfath",28,"Morocco",None,0,None,"","Attack","€10k",None,None,79389
-667992,"Reda Asmama",23,"Morocco",None,192,None,"right","Goalkeeper","€50k",None,None,79389
-239291,"Abdelkabir El Ouadi",32,"Morocco",None,168,None,"right","Left Winger","€250k",None,None,79389
-1134252,"Adam Chakir",19,"Morocco",None,173,None,"right","Central Midfield","€25k",None,None,79389
-1246533,"Taha Majni",18,"Morocco",None,187,None,"right","Centre-Back","€250k",None,None,79389
-1028119,"Youness Akharraz",21,"Morocco",None,0,None,"right","Right-Back","€500k",None,None,79389
-1055313,"Zineddine Brighet",23,"Morocco",None,190,None,"right","Defensive Midfield","€10k",None,None,79389
-1180811,"Adam Baallal",18,"Morocco",None,0,None,"","Central Midfield","€50k",None,None,79389
-926103,"Yassine Zraa",25,"Morocco",None,183,None,"right","Centre-Forward","€75k",None,None,79389
-1091486,"Nasreddine Moustaghfir",22,"Morocco",None,190,None,"","Centre-Forward","€75k",None,None,79389
-238952,"Soulaiman El Amrani",28,"Morocco",None,181,None,"","Centre-Back","€400k",None,None,22935
-1371032,"Akram Haimoud",21,"Morocco",None,179,None,"left","Left-Back","€10k",None,None,22935
-913644,"Zakary Lamgahez",22,"France",None,185,None,"right","Centre-Back","€150k",None,None,22935
-926806,"Abdallah Boukhanfer",27,"Morocco",None,185,None,"left","Attacking Midfield","€250k",None,None,22935
-352125,"Nassim Ouammou",32,"France",None,181,None,"left","Left-Back","€175k",None,None,22935
-1322435,"Younes El Amali",21,"Morocco",None,178,None,"left","Left-Back","€25k",None,None,22935
-789533,"Walid Jarmouni",25,"France",None,189,None,"left","Centre-Forward","€400k",None,None,22935
-353473,"Jalal Tachtach",31,"Morocco",None,0,None,"","Central Midfield","€450k",None,None,22935
-709481,"Ayoub Yousfi",22,"Spain",None,179,None,"left","Attacking Midfield","€50k",None,None,22935
-908118,"Badreddine Octobre",25,"Morocco",None,0,None,"right","Defensive Midfield","€10k",None,None,22935
-1036559,"Badreddine Abyir",27,"Morocco",None,0,None,"left","Goalkeeper","€350k",None,None,22935
-918020,"Fahd Bendahmane",24,"Morocco",None,175,None,"right","Centre-Forward","€300k",None,None,22935
-292309,"Hicham El Majhed",34,"Morocco",None,193,None,"right","Goalkeeper","€150k",None,None,22935
-1110587,"Abdelali Ait Brayim",22,"Morocco",None,0,None,"left","Attacking Midfield","€125k",None,None,22935
-1174677,"Zakaria Ami",23,"Morocco",None,176,None,"","Defensive Midfield","€400k",None,None,22935
-642295,"Rodrigue Kossi Fiogbé",25,"Benin",None,181,None,"right","Defensive Midfield","€225k",None,None,22935
-1184401,"Assane Bèye",25,"Senegal",None,180,None,"left","Centre-Back","€400k",None,None,22935
-467571,"Fred Dembi",30,"Congo",None,184,None,"right","Defensive Midfield","€300k",None,None,22935
-1327935,"Hamza Moumadi",20,"Morocco",None,0,None,"","Central Midfield","€25k",None,None,22935
-1337458,"Baba Bello Ilou",20,"Cameroon",None,185,None,"right","Centre-Forward","€225k",None,None,22935
-920577,"Aziz Kaidi",29,"Morocco",None,183,None,"right","Left Winger","€200k",None,None,22935
-1194144,"Mehdi Akoumi",19,"Morocco",None,180,None,"right","Central Midfield","€125k",None,None,22935
-1153106,"Ilyass Motik",20,"Morocco",None,192,None,"right","Goalkeeper","€100k",None,None,22935
-1233132,"Ismail Hrila",21,"Morocco",None,189,None,"right","Centre-Back","€125k",None,None,22935
-1270327,"Hamza El Belghyty",20,"Morocco",None,170,None,"right","Midfield","€10k",None,None,22935
-1338486,"Ayman Tarrazi",20,"Morocco",None,0,None,"","Right-Back","€275k",None,None,22935
-182912,"Ange-Freddy Plumain",30,"Guadeloupe",None,184,None,"right","Left Winger","€325k",None,None,22935
-975918,"Mohamed Bakhkhach",23,"Morocco",None,0,None,"","Left Winger","€400k",None,None,22935
-491280,"Euclides Cabral",26,"Portugal",None,179,None,"right","Right-Back","€400k",None,None,22935
-1134278,"Mohamed Amine Katiba",19,"Morocco",None,181,None,"right","Defensive Midfield","€550k",None,None,22935
-593395,"Abderrahmane Kernane",25,"Morocco",None,186,None,"left","Goalkeeper","€25k",None,None,22944
-1263250,"Anas Mkhair",22,"Morocco",None,188,None,"","Midfield","€25k",None,None,22944
-823069,"Imad Askar",27,"Morocco",None,190,None,"right","Goalkeeper","€25k",None,None,22944
-1258563,"Oussama Ichou",20,"Morocco",None,0,None,"","Central Midfield","€25k",None,None,22944
-518828,"Saad El Morsli",27,"Morocco",None,170,None,"left","Left Winger","€450k",None,None,22944
-1258564,"Anas Soufeir",24,"Morocco",None,179,None,"right","Right-Back","€75k",None,None,22944
-1065548,"Aboubacar Sylla",21,"Cote d'Ivoire",None,190,None,"","Defender","€10k",None,None,22944
-244941,"Hamza Semmoumy",33,"Morocco",None,174,None,"right","Right-Back","€50k",None,None,22944
-1097559,"Anass Eddaou",26,"Morocco",None,172,None,"right","Left Winger","€250k",None,None,22944
-846437,"Salaheddine Errahouli",23,"Morocco",None,0,None,"","Right Winger","€550k",None,None,22944
-858910,"Yassine Kordani",34,"Morocco",None,188,None,"right","Centre-Back","€150k",None,None,22944
-908108,"Ayman Hadry",25,"Morocco",None,0,None,"","Right-Back","€25k",None,None,22944
-1235904,"Yasser Ezzine",21,"Morocco",None,184,None,"left","Left-Back","€200k",None,None,22944
-312825,"Fred Ngoma",28,"Congo",None,173,None,"","Attacking Midfield","€250k",None,None,22944
-1233335,"Moriba Traoré",22,"Mali",None,168,None,"both","Central Midfield","€25k",None,None,22944
-836467,"Abderrahmane Qassaq",27,"Morocco",None,175,None,"right","Attacking Midfield","€400k",None,None,22944
-712125,"Anouar Tarkhatt",28,"Morocco",None,182,None,"both","Centre-Back","€450k",None,None,22944
-203755,"Sofian El Moudane",31,"France",None,178,None,"right","Attacking Midfield","€350k",None,None,22944
-182885,"Mohamed Chemlal",30,"France",None,170,None,"right","Attacking Midfield","€450k",None,None,22944
-364239,"Moussa Koné",28,"Senegal",None,175,None,"right","Centre-Forward","€500k",None,None,22944
-1235902,"Ahmed El Houari",21,"Morocco",None,178,None,"","Attacking Midfield","€250k",None,None,22944
-848420,"Walid Rhailouf",27,"Morocco",None,186,None,"","Central Midfield","€375k",None,None,22944
-681726,"Hamza Hamiani",31,"Morocco",None,187,None,"right","Goalkeeper","€500k",None,None,22944
-902847,"Faraji Karmoune",28,"Morocco",None,186,None,"both","Right-Back","€350k",None,None,22944
-860299,"Charki El Bahri",32,"Morocco",None,0,None,"","Centre-Forward","€300k",None,None,22944
-929321,"Karim L'Koucha",25,"Morocco",None,0,None,"","Right Winger","€350k",None,None,22944
-1256643,"Anas Samoudi",18,"Morocco",None,0,None,"right","Right Winger","€50k",None,None,22944
-650001,"Marwane Elaz",29,"Morocco",None,172,None,"","Left Winger","€75k",None,None,22944
-842528,"Karim El Bounagate",25,"Morocco",None,189,None,"left","Centre-Back","€225k",None,None,30625
-484572,"Anass Nouader",27,"Morocco",None,182,None,"","Centre-Back","€275k",None,None,30625
-234836,"Youssef Anouar",35,"Morocco",None,165,None,"right","Left Winger","€300k",None,None,30625
-239127,"Larbi Naji",35,"Morocco",None,185,None,"right","Defensive Midfield","€400k",None,None,30625
-1340455,"Yassine Senhaji",19,"Morocco",None,181,None,"right","Centre-Forward","€25k",None,None,30625
-1340454,"Soufiane Taher",21,"Morocco",None,187,None,"right","Goalkeeper","€10k",None,None,30625
-864078,"Yacoub El Id",24,"Mauritania",None,181,None,"","Midfield","€10k",None,None,30625
-868656,"Mouad Goulouss",32,"Morocco",None,171,None,"right","Attacking Midfield","€275k",None,None,30625
-857713,"Mustapha Sahd",32,"Morocco",None,182,None,"right","Centre-Forward","€375k",None,None,30625
-933020,"Imad Khannouss",32,"Morocco",None,179,None,"both","Left Winger","€125k",None,None,30625
-1309589,"Ayoub Lourhraz",24,"Morocco",None,171,None,"","Right-Back","€50k",None,None,30625
-1123784,"Zouhir Eddib",23,"Morocco",None,183,None,"right","Centre-Forward","€275k",None,None,30625
-805351,"Achraf Hmaidou",25,"Morocco",None,176,None,"right","Defensive Midfield","€325k",None,None,30625
-1102874,"Adnane Berdad",32,"Morocco",None,0,None,"right","Central Midfield","€275k",None,None,30625
-1416427,"Mohamed Ferhane",22,"Morocco",None,190,None,"right","Centre-Forward","",None,None,30625
-1105269,"Abdellatif Benkassou",22,"Morocco",None,0,None,"right","Right Winger","€250k",None,None,30625
-440323,"Ismael Benktib",27,"Morocco",None,177,None,"right","Central Midfield","€450k",None,None,30625
-1125067,"Younes Sakhi",25,"Morocco",None,187,None,"both","Right Winger","€175k",None,None,30625
-1263910,"Mohamed Zinaf",22,"Morocco",None,0,None,"","Attacking Midfield","€50k",None,None,30625
-1459802,"Marius Mbou",21,"Congo",None,186,None,"right","Central Midfield","",None,None,30625
-518849,"Zakaria Nassik",28,"Morocco",None,177,None,"left","Left-Back","€250k",None,None,30625
-703639,"Driss El Abdi",32,"Morocco",None,0,None,"left","Centre-Back","€50k",None,None,30625
-375635,"Reda Bounaga",36,"Morocco",None,187,None,"right","Goalkeeper","€75k",None,None,30625
-1092073,"Chemseddine Knaidil",23,"Morocco",None,0,None,"left","Left-Back","€325k",None,None,30625
-643992,"Imrane Fiddi",27,"Morocco",None,173,None,"right","Right-Back","€150k",None,None,30625
-536874,"Amine Dghoughi",33,"Morocco",None,174,None,"right","Attacking Midfield","€175k",None,None,30625
-850874,"Cruz Ndong Bitheghe",24,"Gabon",None,178,None,"","Attack","€25k",None,None,30625
-520441,"Oussama Daoui",30,"Morocco",None,0,None,"right","Right-Back","€300k",None,None,30625
-712124,"Youssef Limouri",26,"Morocco",None,0,None,"","Centre-Back","€550k",None,None,30625
-238963,"Yassine Jbira",29,"Morocco",None,172,None,"left","Left-Back","€275k",None,None,30625
-1097549,"Mohamed Gharmal",37,"Morocco",None,177,None,"","Attacking Midfield","€10k",None,None,30625
-366783,"Aymane Majid",30,"Morocco",None,187,None,"","Goalkeeper","€450k",None,None,30625
-556868,"Aissa Sioudi",28,"Morocco",None,188,None,"","Goalkeeper","€75k",None,None,74953
-617083,"Zacarías Ghailán",23,"Morocco",None,173,None,"right","Left Winger","€125k",None,None,74953
-855878,"James Ajako",22,"Nigeria",None,178,None,"left","Centre-Back","€450k",None,None,74953
-926537,"Aymane El Aouani",25,"Morocco",None,0,None,"left","Left-Back","€50k",None,None,74953
-790406,"Zakaria Bahrou",28,"Morocco",None,183,None,"right","Centre-Forward","€450k",None,None,74953
-1406018,"Ismail Zeroual",26,"Morocco",None,181,None,"right","Left Winger","€10k",None,None,74953
-1263222,"Yazid Faffa",24,"Morocco",None,169,None,"right","Right Winger","€250k",None,None,74953
-837173,"Abdellah Farah",24,"Morocco",None,0,None,"","Right Winger","€200k",None,None,74953
-234900,"Mehdi El Jourbaoui",32,"Morocco",None,0,None,"","Goalkeeper","€300k",None,None,74953
-1428468,"Mohammed Maid",21,"Morocco",None,0,None,"","Centre-Back","",None,None,74953
-822539,"Ayoub Tine",33,"Morocco",None,0,None,"right","Right-Back","€100k",None,None,74953
-731876,"Montassir Lahtimi",24,"Morocco",None,185,None,"left","Right Winger","€350k",None,None,74953
-1264456,"Amine Balich",22,"Morocco",None,174,None,"left","Left-Back","€25k",None,None,74953
-365362,"Mohammad El Fakih",35,"Morocco",None,175,None,"right","Attacking Midfield","€50k",None,None,74953
-1210076,"Marouane Oujeddou",21,"Morocco",None,181,None,"left","Right Winger","€200k",None,None,74953
-1076082,"Anass El Ghannouj",28,"Morocco",None,181,None,"","Defensive Midfield","€225k",None,None,74953
-558706,"Zouheir El Hachemi",27,"Morocco",None,177,None,"right","Right-Back","€150k",None,None,74953
-1274616,"Ishak Zidani",24,"Morocco",None,188,None,"right","Defensive Midfield","€375k",None,None,74953
-858917,"Abdessamad Badaoui",26,"Morocco",None,0,None,"","Right-Back","€250k",None,None,74953
-800365,"Reda Lakhmidi",25,"Morocco",None,178,None,"right","Attacking Midfield","€10k",None,None,74953
-897600,"Abdelaziz El Hamzaoui",33,"Morocco",None,186,None,"left","Left Winger","€75k",None,None,74953
-1033958,"Zakaria Fatihi",27,"Morocco",None,175,None,"","Right Winger","€225k",None,None,74953
-549322,"Ayoub Joulale",27,"Morocco",None,0,None,"right","Right Midfield","€10k",None,None,74953
-1203684,"Abdellatif El Bajjani",30,"Morocco",None,0,None,"","Defensive Midfield","€200k",None,None,74953
-499511,"Marouane Fakhr",36,"Morocco",None,182,None,"right","Goalkeeper","€100k",None,None,74953
-800592,"Taha Al Achbili",24,"Morocco",None,175,None,"left","Left Winger","€10k",None,None,74953
-1060545,"Ousmane Diallo",26,"Mali",None,181,None,"left","Left-Back","€125k",None,None,74953
-727252,"Bilal Soufi",26,"Morocco",None,0,None,"","Centre-Back","€200k",None,None,74953
-1309132,"Ahmed Rhailouf",21,"Morocco",None,188,None,"right","Centre-Forward","€200k",None,None,74953
-1262530,"Reda Ait Boughima",25,"Morocco",None,181,None,"right","Centre-Back","€100k",None,None,74953
-665743,"Moustapha Chichane",34,"Morocco",None,180,None,"right","Defensive Midfield","€25k",None,None,74953
-667972,"Youssef Aoujdal",23,"Morocco",None,181,None,"right","Centre-Back","€10k",None,None,74953
-727075,"Mohamed Ferni",26,"Morocco",None,186,None,"right","Goalkeeper","€225k",None,None,74953
-738953,"Ismail Gourad",24,"Morocco",None,0,None,"left","Left Winger","€25k",None,None,74953
-1203850,"Oussama Benchchaoui",24,"Morocco",None,178,None,"right","Right-Back","€75k",None,None,14462
-820480,"Youssef Michte",26,"Morocco",None,178,None,"right","Defensive Midfield","€300k",None,None,14462
-1210182,"Ayoub El Khafi",26,"Morocco",None,0,None,"","Central Midfield","€25k",None,None,14462
-235116,"Marouane Hadhoudi",33,"Morocco",None,190,None,"right","Centre-Back","€300k",None,None,14462
-1422476,"Zakaria Oubraim",23,"Morocco",None,183,None,"","Right-Back","€25k",None,None,14462
-1087382,"Aymane Takoua",21,"Morocco",None,191,None,"left","Centre-Back","€10k",None,None,14462
-366775,"Achraf Al Idrissi",30,"Morocco",None,172,None,"right","Defensive Midfield","",None,None,14462
-738071,"Romuald Dacosta",26,"Senegal",None,182,None,"both","Right Winger","€225k",None,None,14462
-176573,"Babacar Niasse",29,"Mauritania",None,196,None,"right","Goalkeeper","€400k",None,None,14462
-717216,"Marouane Lemzaouri",32,"Morocco",None,0,None,"","Right-Back","€325k",None,None,14462
-617595,"Marouane Bessak",29,"Morocco",None,190,None,"right","Goalkeeper","€200k",None,None,14462
-1336614,"Papa Souley Diallo",20,"Senegal",None,0,None,"right","Left Winger","€10k",None,None,14462
-1210187,"Mohamed Hilali",26,"Morocco",None,0,None,"","Attacking Midfield","€25k",None,None,14462
-275262,"Omar Jerrari",31,"Morocco",None,177,None,"left","Left-Back","€450k",None,None,14462
-1178984,"Hamza Malki",29,"Morocco",None,178,None,"left","Left-Back","€250k",None,None,14462
-863506,"Khalid Baba",25,"Morocco",None,0,None,"","Right Winger","€550k",None,None,14462
-891953,"Abderrazak Ennakouss",24,"Morocco",None,190,None,"left","Centre-Forward","€125k",None,None,14462
-1172375,"Brahim El Idrissi Bouzidi",25,"Morocco",None,181,None,"right","Defensive Midfield","€325k",None,None,14462
-1307857,"Ayoub Ait Wahmane",24,"Morocco",None,0,None,"","Goalkeeper","€10k",None,None,14462
-1273576,"Abdellah Ziani",22,"Morocco",None,167,None,"right","Left Winger","€175k",None,None,14462
-1076078,"Yassine Fatine",29,"Morocco",None,183,None,"both","Centre-Back","€275k",None,None,14462
-1302320,"Abdoulaye Sanogo",21,"Mali",None,187,None,"right","Centre-Back","€25k",None,None,14462
-902827,"Soufiane Abaaziz",27,"Morocco",None,179,None,"left","Left-Back","€200k",None,None,14462
-840930,"Imad Sabik",28,"Morocco",None,0,None,"","Right Winger","€50k",None,None,14462
-882909,"Mohamed Bentarcha",27,"Morocco",None,187,None,"right","Centre-Back","€175k",None,None,14462
-1002677,"Mouad Mouchtanim",26,"Morocco",None,0,None,"left","Central Midfield","€25k",None,None,14462
-1004272,"Yassine Lamine",26,"Morocco",None,0,None,"","Left Winger","€225k",None,None,14462
-1307908,"Houdaifa Jamaäne",19,"Morocco",None,0,None,"","Central Midfield","€10k",None,None,14462
-321629,"Moctar El Hacen",27,"Mauritania",None,181,None,"right","Defensive Midfield","€300k",None,None,14462
-539612,"Siriky Sanogo",24,"Cote d'Ivoire",None,178,None,"left","Central Midfield","€125k",None,None,12721
-496570,"Badr Gaddarine",28,"Morocco",None,178,None,"left","Left-Back","€450k",None,None,12721
-1191484,"Nawfal Chninak",19,"Morocco",None,180,None,"","Centre-Forward","€10k",None,None,12721
-683336,"Faouzi Abdoul Mutalib",32,"Morocco",None,0,None,"","Defensive Midfield","€325k",None,None,12721
-717214,"Zakaria Kiani",28,"Morocco",None,170,None,"right","Right-Back","€450k",None,None,12721
-240721,"Mohamed Saoud",29,"Morocco",None,186,None,"right","Centre-Back","€400k",None,None,12721
-245202,"Anass Lamrabat",32,"Morocco",None,0,None,"left","Left-Back","€250k",None,None,12721
-836632,"Youssef Laghzal",24,"Morocco",None,0,None,"","Goalkeeper","€50k",None,None,12721
-859901,"Bilal El Ouadghiri",24,"Morocco",None,186,None,"","Centre-Back","€450k",None,None,12721
-203378,"Zakaria Bakkali",29,"Belgium",None,170,None,"right","Left Winger","€175k",None,None,12721
-507358,"Haytham El Bahja",32,"Morocco",None,175,None,"left","Right Winger","€275k",None,None,12721
-1333330,"Louay El Moussaoui",21,"Morocco",None,0,None,"","Left-Back","€10k",None,None,12721
-1303960,"Papa Magueye Gaye",19,"Senegal",None,0,None,"","Centre-Forward","€100k",None,None,12721
-846673,"Amine El Ouaad",30,"Morocco",None,0,None,"","Goalkeeper","€350k",None,None,12721
-660039,"Ennaama El Bellali",27,"Morocco",None,190,None,"right","Defensive Midfield","€350k",None,None,12721
-1064714,"Akram El Wahabi",21,"Spain",None,0,None,"Ittihad Tanger","Centre-Back","€10k",None,None,12721
-1204741,"Livty Kpolo",23,"France",None,0,None,"","Centre-Forward","€25k",None,None,12721
-77385,"Mohsine Moutaouali",39,"Morocco",None,174,None,"right","Attacking Midfield","€75k",None,None,12721
-1183709,"Adam Darazi",20,"France",None,172,None,"right","Defensive Midfield","€10k",None,None,12721
-240714,"Ahmed Chentouf",29,"Morocco",None,0,None,"","Central Midfield","€75k",None,None,12721
-461581,"Malcolm Barcola",26,"Togo",None,195,None,"right","Goalkeeper","€50k",None,None,12721
-701611,"Jawad Ghabra",31,"Morocco",None,184,None,"right","Right Winger","€325k",None,None,12721
-823072,"Oussama Al Aiz",24,"Morocco",None,0,None,"","Centre-Back","€275k",None,None,12721
-972603,"Hamza El Moudene",30,"Morocco",None,0,None,"right","Central Midfield","€250k",None,None,12721
-1307015,"Antoine Chiniard",19,"France",None,0,None,"","Midfield","",None,None,12721
-1416877,"Hamza Founti",25,"Morocco",None,0,None,"","Centre-Forward","€50k",None,None,4697
-1033957,"Ismail Mihrab",29,"Morocco",None,173,None,"left","Right Winger","€375k",None,None,4697
-1370977,"Mohamed Welé",23,"Senegal",None,187,None,"left","Centre-Back","",None,None,4697
-1133028,"Redouane Mennioui",26,"Morocco",None,188,None,"right","Centre-Back","€150k",None,None,4697
-902834,"Hamza Zagmouzi",23,"Morocco",None,0,None,"both","Attack","€10k",None,None,4697
-1262531,"Younes El Bahraoui",20,"Morocco",None,180,None,"right","Centre-Forward","€250k",None,None,4697
-1204104,"Claude Gnolou",23,"Cote d'Ivoire",None,170,None,"right","Defensive Midfield","€350k",None,None,4697
-1267056,"Akram El Hamdaoui",30,"Morocco",None,0,None,"","Centre-Back","€175k",None,None,4697
-530999,"Mohamed Baayou",32,"Morocco",None,182,None,"","Goalkeeper","€50k",None,None,4697
-231941,"Khalid Boutaïb",38,"Morocco",None,189,None,"right","Centre-Forward","€125k",None,None,4697
-1230677,"Ismail Gazaoui",27,"Morocco",None,0,None,"","Right-Back","€10k",None,None,4697
-867271,"Mohamed Jemjami",26,"Morocco",None,188,None,"right","Goalkeeper","€150k",None,None,4697
-840926,"Youssef Raiani",27,"Morocco",None,186,None,"left","Central Midfield","€100k",None,None,4697
-1043567,"Mohamed Elabdi",28,"Morocco",None,180,None,"left","Left-Back","€150k",None,None,4697
-588635,"Johnstone Omurwa",27,"Kenya",None,191,None,"right","Centre-Back","€450k",None,None,4697
-720443,"Oussama Haffari",26,"Morocco",None,170,None,"left","Left Winger","€75k",None,None,4697
-1440454,"Hamza Fassoukh",26,"Morocco",None,175,None,"right","Right-Back","€150k",None,None,4697
-841119,"Saleh Essallami",29,"Morocco",None,0,None,"right","Left Winger","€175k",None,None,4697
-990144,"Nadir Lougmani",23,"Morocco",None,173,None,"","Right-Back","€250k",None,None,4697
-1188206,"Yaya Diassy",21,"Senegal",None,196,None,"right","Central Midfield","€25k",None,None,4697
-1258577,"Mohamed Adam Benhita",0,"Morocco",None,0,None,"YSI Football","Centre-Back","€100k",None,None,4697
-717223,"Jad Assouab",30,"Morocco",None,189,None,"right","Centre-Back","€325k",None,None,4697
-902813,"Khalil Tamrani",24,"Morocco",None,0,None,"","Attacking Midfield","€10k",None,None,4697
-1269733,"Souleymane Cissé",25,"Senegal",None,182,None,"right","Left Winger","€75k",None,None,4697
-951671,"Ousseini Badamassi",28,"Niger",None,0,None,"","Central Midfield","€75k",None,None,4697
-1048594,"Ismail El Alami",26,"Morocco",None,190,None,"left","Centre-Back","€10k",None,None,4697
-691877,"Jawad Khalouk",27,"Morocco",None,174,None,"left","Left-Back","€25k",None,None,4697
-841118,"Oussama Mahrous",30,"Morocco",None,0,None,"","Central Midfield","€250k",None,None,4697
-841736,"Hamza El Janati",26,"Morocco",None,183,None,"right","Right Winger","€500k",None,None,4697
-1203849,"Hamza Smaali",26,"Morocco",None,0,None,"","Midfield","€10k",None,None,4697
-1410532,"Anass Rachak",18,"Morocco",None,190,None,"right","Goalkeeper","",None,None,4697
-1459207,"Hamza Rafaa",24,"Morocco",None,0,None,"","Midfield","€25k",None,None,4697
-536879,"Youssef Zghoudi",33,"Morocco",None,182,None,"both","Right Winger","€225k",None,None,4697
-519245,"Ibrahim El Omari",29,"Morocco",None,190,None,"","Centre-Forward","€25k",None,None,4697
-897139,"Naoufal Ait Oubna",24,"Morocco",None,0,None,"","Goalkeeper","€25k",None,None,4697
-885446,"Hassan Doughmi",25,"Morocco",None,185,None,"right","Goalkeeper","€200k",None,None,103954
-1338344,"Jalal-Eddine El Khfiyef",25,"Morocco",None,165,None,"left","Attacking Midfield","€175k",None,None,103954
-1338402,"Anas Alami Harraki",21,"Morocco",None,180,None,"both","Defensive Midfield","€10k",None,None,103954
-1338340,"Mohamed Ahayaoui",23,"Morocco",None,0,None,"","Central Midfield","€10k",None,None,103954
-1297881,"Fahd El Kaaba",21,"Morocco",None,0,None,"","Midfield","€10k",None,None,103954
-1203683,"Mouhcine Boussanane",33,"Morocco",None,182,None,"right","Centre-Forward","€75k",None,None,103954
-1338336,"Adil Khalloufi",26,"Morocco",None,0,None,"","Central Midfield","€175k",None,None,103954
-244921,"Mohamed Nasser Allah Jamal",28,"Morocco",None,178,None,"right","Centre-Back","€10k",None,None,103954
-1338946,"Hatim Mrabet",28,"Morocco",None,0,None,"","Left-Back","€25k",None,None,103954
-1260898,"Moad Kharjan",28,"Morocco",None,0,None,"","Defensive Midfield","€25k",None,None,103954
-799020,"Ayoub El Bouadli",26,"Morocco",None,173,None,"right","Attacking Midfield","€10k",None,None,103954
-1133029,"Mehdi Balouk",30,"Morocco",None,0,None,"","Centre-Forward","€200k",None,None,103954
-1338337,"Saad Salih",22,"Morocco",None,183,None,"left","Right Winger","€10k",None,None,103954
-1203885,"Anas Lagziri",31,"Morocco",None,0,None,"","Defensive Midfield","€10k",None,None,103954
-1293625,"Ilyass Badri",27,"Morocco",None,181,None,"right","Centre-Back","€10k",None,None,103954
-1256586,"Nassim Azzoubairi",30,"Morocco",None,0,None,"","Left-Back","€175k",None,None,103954
-1338434,"Ismail Sayad",27,"Morocco",None,0,None,"","Goalkeeper","€150k",None,None,103954
-903847,"Achraf Zine",25,"Morocco",None,191,None,"right","Centre-Back","€200k",None,None,103954
-902853,"Hafs Kasbi",23,"Morocco",None,0,None,"","Goalkeeper","€25k",None,None,103954
-502657,"Anas Jabroun",28,"Morocco",None,169,None,"right","Left Winger","€75k",None,None,103954
-234897,"Abdelali Khouch",28,"Morocco",None,0,None,"both","Left-Back","€25k",None,None,103954
-375626,"Youssef Legnibi",30,"Morocco",None,183,None,"both","Defensive Midfield","€25k",None,None,103954
-625170,"Ilyas Bougafer",22,"Morocco",None,0,None,"right","Left Winger","€10k",None,None,103954
-1260850,"Ibrahim Boumalk",27,"Morocco",None,0,None,"left","Attacking Midfield","€10k",None,None,103954
-1338341,"Youness Noussir",31,"Morocco",None,0,None,"","Right-Back","€125k",None,None,103954
-499513,"Zakaria Fati",33,"Morocco",None,175,None,"","Left Winger","€225k",None,None,103954
-736943,"Yassine Morsil",27,"Morocco",None,184,None,"right","Right-Back","€100k",None,None,103954
-375629,"Zouhair Marour",30,"Morocco",None,182,None,"left","Centre-Back","€300k",None,None,103954
-262895,"Soufyan Ahannach",30,"Netherlands",None,179,None,"right","Left Winger","€300k",None,None,103954
-1268379,"Brahim Mansouri",29,"Morocco",None,0,None,"right","Right Winger","€175k",None,None,103954
-1338250,"Salah Eddine Essalehy",21,"Morocco",None,0,None,"","Left Winger","€10k",None,None,59771
-902800,"Mohamed Idar",39,"Morocco",None,0,None,"right","Goalkeeper","€50k",None,None,59771
-1338253,"Salah Eddine Abderahim",21,"Morocco",None,178,None,"both","Centre-Forward","€10k",None,None,59771
-1338805,"Mounir El Gouj",22,"Morocco",None,0,None,"","Midfield","€10k",None,None,59771
-1211423,"Hamza Saoud",29,"Morocco",None,0,None,"","Attacking Midfield","€125k",None,None,59771
-1207194,"Brahim Amzili",32,"Morocco",None,0,None,"right","Midfield","€125k",None,None,59771
-689433,"Yassine Boughaz",32,"Morocco",None,177,None,"right","Centre-Back","€25k",None,None,59771
-949538,"Cheick Keita",26,"Mali",None,188,None,"right","Centre-Back","€150k",None,None,59771
-925830,"Mouhcine Boumlik",28,"Morocco",None,184,None,"left","Centre-Back","€25k",None,None,59771
-1207223,"Redouane Oubidar",27,"Morocco",None,0,None,"right","Midfield","€150k",None,None,59771
-1211503,"Hafid Id Said",27,"Morocco",None,184,None,"right","Goalkeeper","€10k",None,None,59771
-1338256,"Khalid Raiss",22,"Morocco",None,185,None,"","Midfield","€10k",None,None,59771
-1261669,"Ismail Soubai",25,"Morocco",None,182,None,"right","Centre-Back","€25k",None,None,59771
-1229756,"Tarik El Koutouby",29,"Morocco",None,0,None,"","Goalkeeper","€10k",None,None,59771
-902833,"Mohamed Hamdi",32,"Morocco",None,175,None,"right","Central Midfield","€10k",None,None,59771
-1211424,"Amine Aghou",27,"Morocco",None,178,None,"right","Centre-Forward","€125k",None,None,59771
-1274437,"Aboujemaa Ameur",21,"Morocco",None,187,None,"left","Centre-Back","€125k",None,None,59771
-902816,"Brahim Ait Hammou",27,"Morocco",None,0,None,"right","Right Winger","€75k",None,None,59771
-1274414,"Abdellah Manni",22,"Morocco",None,0,None,"","Defender","€10k",None,None,59771
-238120,"Ayoub Benaadi",32,"Morocco",None,0,None,"","Attacking Midfield","€250k",None,None,59771
-1203860,"Yassine Jabrane",25,"Morocco",None,190,None,"right","Left Winger","€75k",None,None,59771
-733894,"Younes El Khafi",31,"Morocco",None,178,None,"left","Left-Back","€100k",None,None,59771
-211632,"Youssef Fahmi",28,"Morocco",None,0,None,"right","Defensive Midfield","€50k",None,None,59771
-859897,"Mohssine Abba",25,"Morocco",None,178,None,"left","Centre-Forward","€50k",None,None,59771
-996378,"Hamza Jananallah",25,"Morocco",None,0,None,"left","Left Midfield","€75k",None,None,59771
-1338252,"Mohamed Adjar",23,"Morocco",None,0,None,"","Attacking Midfield","€25k",None,None,59771
-1173700,"Hicham Ait Brayem",29,"Morocco",None,0,None,"right","Right-Back","€175k",None,None,59771
-1261753,"Omar Ouddah",27,"Morocco",None,179,None,"both","Defensive Midfield","€25k",None,None,59771
-1261675,"Reda Abardi",33,"Morocco",None,0,None,"","Centre-Forward","€175k",None,None,59771
-1172369,"Mohamed Habbali",33,"Morocco",None,166,None,"","Right Winger","€200k",None,None,59771
-857712,"Charaf-Eddine Boulahroud",24,"Morocco",None,180,None,"right","Central Midfield","€10k",None,None,59771
-902848,"Soufiane Jazouli",30,"Morocco",None,0,None,"left","Left Winger","€10k",None,None,59771
-1338251,"Anass Aziz",0,"Morocco",None,0,None,"","Midfield","€10k",None,None,59771
+id,name,age,nationality,height,preferred_foot,preferred_positions,market_value,current_club_id
+665738,Ayoub Khairi,25,Morocco,0,,Central Midfield,€1.20m,37176
+732950,Oussama Lamlioui,29,Morocco,180,both,Centre-Forward,€900k,37176
+1110732,Soumaila Sidibe,28,Mali,178,right,Defensive Midfield,€500k,37176
+885704,Kamal Bilal,27,Morocco,0,,Goalkeeper,€10k,37176
+599573,Mehdi Maftah,32,Morocco,190,right,Goalkeeper,€300k,37176
+1044891,Amine Azri,30,Morocco,183,left,Right Winger,€450k,37176
+468244,Rayane Aabid,33,France,178,right,Central Midfield,€75k,37176
+519192,Mohamed El Morabit,27,Morocco,179,right,Attacking Midfield,€500k,37176
+838829,Imad Riahi,25,Morocco,178,right,Right Winger,€450k,37176
+522302,Yassine Labhiri,31,Morocco,178,right,Attacking Midfield,€750k,37176
+842418,Abdelhak Assal,27,Morocco,190,right,Centre-Back,€800k,37176
+191407,Oussama Haddadi,33,Tunisia,185,left,Centre-Back,€175k,37176
+776215,Mamadou Lamine Camara,22,Senegal,193,right,Defensive Midfield,€1.40m,37176
+1091178,Mohamed Ouyahia,20,Morocco,176,left,Central Midfield,€25k,37176
+665744,Et-Tayeb Boukhriss,26,Morocco,177,right,Right-Back,€500k,37176
+847288,Paul Bassène,24,Senegal,182,left,Centre-Forward,€350k,37176
+1210200,Youness El Kaabi,25,Morocco,185,right,Centre-Forward,€75k,37176
+348772,Hamza El Moussaoui,32,Morocco,181,,Left-Back,€800k,37176
+355641,Mounir Chouiar,26,Morocco,177,right,Left Winger,€2.80m,37176
+97925,Munir El Kajoui,36,Morocco,190,right,Goalkeeper,€700k,37176
+1165481,Amine El Maswab,25,Morocco,0,left,Centre-Back,€100k,37176
+373594,Mohamed Aymen Sadil,31,Morocco,0,left,Left-Back,€50k,37176
+836640,Haytam Manaout,24,Morocco,179,right,Right-Back,€1.20m,37176
+575594,Ismaël Kandouss,28,Morocco,192,YSI Football,Centre-Back,€1.80m,37176
+868636,Youssef Mehri,26,Morocco,177,,Left Winger,€1.00m,37176
+882910,Reda Hajji,25,Morocco,0,right,Attacking Midfield,€100k,37176
+146143,Zinédine Machach,29,France,185,right,Attacking Midfield,€650k,37176
+240708,Walid Sabbar,29,Morocco,177,right,Central Midfield,€400k,6603
+667970,Oussama Zemraoui,23,Morocco,175,left,Central Midfield,€650k,6603
+330726,Thembinkosi Lorch,32,South Africa,168,right,Left Winger,€450k,6603
+800363,Mohamed Moufid,25,Morocco,173,right,Right-Back,€900k,6603
+273432,Mohamed Rayhi,31,Netherlands,178,YSI Football,Left Winger,€650k,6603
+441982,Hamza Elowasti,30,Morocco,186,right,Left Winger,€400k,6603
+513275,Tumisang Orebonye,29,Botswana,180,right,Centre-Forward,€400k,6603
+728597,Guilherme Ferreira,26,Brazil,194,right,Centre-Back,€400k,6603
+353476,Abdelali Mhamdi,34,Morocco,192,YSI Football,Goalkeeper,€400k,6603
+245194,Ayoub Boucheta,32,Morocco,171,left,Left-Back,€550k,6603
+517712,Hamza Hannouri,27,Morocco,188,,Centre-Forward,€600k,6603
+1235899,Mohammed El Jadidi,21,Morocco,190,right,Centre-Back,€175k,6603
+1330446,Rayane Mahtou,20,Morocco,184,both,Defensive Midfield,€10k,6603
+1005645,Pedrinho,21,Brazil,172,right,Attacking Midfield,€400k,6603
+1274628,Walid Atik,24,Morocco,176,right,Right-Back,€10k,6603
+342719,Bart Meijers,28,Netherlands,185,YSI Football,Centre-Back,€700k,6603
+732953,Youssef El Motie,31,Morocco,193,right,Goalkeeper,€700k,6603
+217111,Hakim Ziyech,32,Morocco,180,left,Right Winger,€3.00m,6603
+544414,El Mehdi Benabid,27,Morocco,188,right,Goalkeeper,€1.50m,6603
+1253671,Mouad Enzo,24,Morocco,175,right,Attacking Midfield,€25k,6603
+263951,Hamza Sakhi,29,Morocco,176,right,Attacking Midfield,€800k,6603
+240707,Zouhair El Moutaraji,29,Morocco,182,right,Left Winger,€225k,6603
+881744,Mohamed El Ouardi,25,Morocco,172,right,Left Winger,€25k,6603
+916708,Walid Nassi,25,Morocco,182,left,Right Winger,€275k,6603
+546225,Mohamed Bouchouari,25,Belgium,170,right,Right-Back,€550k,6603
+382417,Stephane Aziz Ki,29,Burkina Faso,175,left,Attacking Midfield,€300k,6603
+743585,Arthur Wenderroscky,20,Brazil,170,left,Attacking Midfield,€450k,6603
+925782,Abdelghafour Lamirat,28,Morocco,181,,Defensive Midfield,€600k,6603
+681691,Amine Aboulfath,28,Morocco,183,right,Centre-Back,€550k,6603
+55619,Nordin Amrabat,38,Morocco,178,right,Right Winger,€125k,6603
+1311408,Omar Aqzdaou,22,Morocco,198,YSI Football,Goalkeeper,€25k,6603
+1302206,Joseph Bakasu,22,DR Congo,184,right,Central Midfield,€200k,6603
+974042,Younes Najari,29,Morocco,186,left,Right Winger,€400k,2068
+1150962,Mouad Dahak,20,Morocco,165,right,Left Winger,€900k,2068
+262685,Moses Orkuma,31,Nigeria,0,right,Defensive Midfield,€700k,2068
+822538,El Mehdi Al Harrar,25,Morocco,192,right,Goalkeeper,€750k,2068
+240712,Khalid Kbiri Alaoui,29,Morocco,192,,Goalkeeper,€550k,2068
+617592,Ismail Mokadem,30,Morocco,181,right,Centre-Back,€500k,2068
+274235,Mohamed Al-Makahasi,30,Morocco,177,right,Central Midfield,€800k,2068
+241324,Bilal Ould-Chikh,28,Morocco,170,left,Right Winger,€800k,2068
+1274436,Ayoub Maamouri,25,Morocco,170,right,Right Winger,€400k,2068
+738952,Hilal Ferdaoussi,26,Morocco,177,right,Central Midfield,€400k,2068
+560873,Mohamed Boulacsout,27,Morocco,179,both,Right-Back,€800k,2068
+847308,Pape Ousmane Sakho,29,Senegal,173,right,Left Winger,€75k,2068
+679259,Víctor Ábrego,28,Bolivia,176,right,Centre-Forward,€300k,2068
+904603,Othmane Chraibi,22,Morocco,174,YSI Football,Defensive Midfield,€275k,2068
+569755,Abdellah Khafifi,32,Morocco,183,right,Centre-Back,€600k,2068
+518804,Youssef Belammari,27,Morocco,183,left,Left-Back,€1.50m,2068
+969934,Bouchaib Arrassi,25,Morocco,0,right,Centre-Back,€325k,2068
+238634,Adam Ennaffati,31,Morocco,180,right,Left Winger,€900k,2068
+371606,Abdelkarim Baadi,29,Morocco,173,left,Right-Back,€325k,2068
+988205,Mehdi Mchakhchekh,21,Morocco,183,right,Centre-Back,€400k,2068
+245193,Badr Benoun,32,Morocco,193,right,Centre-Back,€900k,2068
+913377,Yassine Zoubir,23,Morocco,192,right,Goalkeeper,€10k,2068
+707310,Ismail Khafi,30,Morocco,183,,Centre-Forward,€450k,2068
+318904,Sabir Bougrine,29,Morocco,174,right,Attacking Midfield,€700k,2068
+1079652,Ayoub Ait Khassou,21,Morocco,0,right,Centre-Back,€50k,9099
+876730,Nouh Mohamed El Abd,25,Mauritania,186,right,Centre-Back,€250k,9099
+711572,Zineddine Derrag,26,Morocco,171,right,Defensive Midfield,€900k,9099
+199704,Yunis Abdelhamid,38,Morocco,190,left,Centre-Back,€350k,9099
+507374,Ahmed Hammoudan,34,Morocco,177,right,Left Winger,€400k,9099
+573065,Tó Carneiro,30,Angola,170,left,Left-Back,€500k,9099
+859133,Ayoub El Khayati,27,Morocco,191,right,Goalkeeper,€400k,9099
+371211,Hamza Khabba,29,Morocco,187,right,Centre-Forward,€550k,9099
+553100,Mohamed Rabie Hrimat,31,Morocco,186,right,Defensive Midfield,€1.50m,9099
+1105266,Zakaria Ajoughlal,24,Morocco,0,left,Attacking Midfield,€50k,9099
+238997,Ahmed Reda Tagnaouti,29,Morocco,192,right,Goalkeeper,€700k,9099
+660041,Youssef El Fahli,28,Morocco,182,right,Left Winger,€1.00m,9099
+711281,Abdelfettah Hadraf,27,Morocco,0,,Central Midfield,€500k,9099
+518802,Anas Bach,27,Morocco,176,right,Defensive Midfield,€1.50m,9099
+689431,Reda Slim,26,Morocco,176,right,Right Winger,€1.30m,9099
+631508,Khalid Aït Ouarkhane,25,Morocco,179,right,Attacking Midfield,€800k,9099
+742502,Achref Habbassi,24,Tunisia,177,left,Right Winger,€325k,9099
+872090,Mouhcine Bouriga,25,Morocco,183,right,Centre-Forward,€200k,9099
+518801,Marouane Louadni,30,Morocco,190,right,Centre-Back,€600k,9099
+635927,Fallou Mendy,25,Senegal,185,left,Centre-Back,€350k,9099
+904465,Taoufik Razko,23,Morocco,0,right,Central Midfield,€250k,9099
+734155,Jamal Ech-Chamakh,25,Morocco,0,,Left-Back,€550k,9099
+1299944,Destin Maniriho,26,Burundi,0,,Left Winger,€10k,9099
+1055358,Soulaimane El Bouchqali,22,Morocco,182,right,Attacking Midfield,€450k,9099
+366744,Lamine Diakité,34,Cote d'Ivoire,184,left,Left Winger,€325k,6371
+799742,Salaheddine Benyachou,26,Morocco,168,right,Right Winger,€200k,6371
+816064,Mouad Bahsain,26,Morocco,180,left,Left-Back,€450k,6371
+1134249,Taha Benrhozil,19,Morocco,180,right,Goalkeeper,€200k,6371
+738951,Amine Souane,24,Morocco,182,right,Right Winger,€1.00m,6371
+556272,Ayoub Lakred,30,Morocco,0,right,Goalkeeper,€350k,6371
+844795,Ali El Harrak,28,Morocco,0,both,Centre-Forward,€300k,6371
+737182,Oussama Soukhane,26,Morocco,0,left,Left-Back,€650k,6371
+593405,Ismail Moutaraji,25,Morocco,183,left,Attacking Midfield,€350k,6371
+1232068,Soufiane Tazi,21,Morocco,181,right,Central Midfield,€600k,6371
+627926,Hodifa El Mahssani,26,Morocco,175,right,Right-Back,€650k,6371
+1055193,Yassine Amhih,22,Morocco,0,,Centre-Back,€400k,6371
+1039603,Mohamed El Badoui,26,Morocco,184,right,Centre-Forward,€300k,6371
+834876,Amine Farhane,27,Morocco,189,right,Centre-Back,€275k,6371
+1150961,Anas El Makkaoui,20,Morocco,181,both,Defensive Midfield,€125k,6371
+507134,Amine El Msane,31,Morocco,0,left,Defensive Midfield,€600k,6371
+1203514,Arthur Gitego,23,Rwanda,190,,Centre-Forward,€50k,6371
+838828,Moncef Amri,32,Morocco,180,left,Left-Back,€325k,6371
+844300,Ayoub Mouloua,23,Morocco,183,right,Centre-Forward,€700k,6371
+920971,Chouaib Faidi,26,Morocco,0,right,Left Winger,€225k,6371
+717213,Anas Serrhat,29,Morocco,178,,Defensive Midfield,€750k,6371
+667994,Oussama Raoui,23,Morocco,176,right,Right-Back,€225k,6371
+981522,Rachid Ghanimi,24,Morocco,189,,Goalkeeper,€400k,6371
+811084,Abdessamad Mahir,28,Morocco,176,right,Central Midfield,€650k,6371
+508643,Soulyman Allouch,23,Netherlands,174,right,Left Winger,€550k,3282
+913361,Soufiane Benjdida,24,Morocco,178,right,Centre-Forward,€700k,3282
+262953,Adil Rhaili,34,Morocco,192,left,Centre-Back,€125k,3282
+290768,Kevin Yamga,29,France,187,right,Right Winger,€700k,3282
+339552,Kabelo Seakanyeng,32,Botswana,175,right,Left Winger,€400k,3282
+1091104,Nizar Guessous,22,Morocco,174,left,Attacking Midfield,€10k,3282
+1341102,Walid Laghrissi,17,Morocco,0,,Goalkeeper,,3282
+682847,Benjamin Tanimu,23,Nigeria,185,right,Centre-Back,€225k,3282
+308265,Anas Tahiri,30,Morocco,179,right,Central Midfield,€450k,3282
+1176891,Youssef Dalouzi,23,Morocco,182,both,Right Winger,€175k,3282
+1317548,Akram Khlifi,21,Morocco,0,,Midfield,€10k,3282
+1176890,Oussama Noureddine,24,Morocco,180,right,Defensive Midfield,€400k,3282
+721818,Reda Mhannaoui,26,Morocco,171,right,Right-Back,€225k,3282
+863795,Marouane Ouhrou,23,Morocco,178,left,Left-Back,€325k,3282
+858584,Hamza Afsal,29,Morocco,184,both,Central Midfield,€500k,3282
+712126,Aymane Chbani,27,Morocco,189,right,Centre-Back,€200k,3282
+689435,Abdelilah Madkour,25,Morocco,0,right,Right-Back,€350k,3282
+1174262,Driss El Jabli,27,Morocco,187,right,Centre-Back,€400k,3282
+1115476,Zakaria Allaoui,19,Morocco,0,right,Centre-Forward,€10k,3282
+367149,Achraf Harmach,32,Morocco,176,,Central Midfield,€500k,3282
+1344495,Privat Djéssan Bi,22,Cote d'Ivoire,182,right,Centre-Forward,€10k,3282
+1235905,Oussama Errahmany,22,Morocco,195,both,Goalkeeper,€175k,3282
+255642,Saad Ait Khorsa,31,Morocco,186,left,Centre-Back,€350k,3282
+692591,Hamza Ait Allal,25,Morocco,184,right,Right-Back,€350k,3282
+1370739,Adam Brika,0,Morocco,0,,Midfield,€250k,3282
+306668,Amine Oudrhiri,33,Morocco,184,right,Defensive Midfield,€275k,3282
+1091105,Mohamed Loumim,24,Morocco,0,,Attacking Midfield,€10k,3282
+356586,Salaheddine Chihab,32,Morocco,198,right,Goalkeeper,€1.00m,3282
+1139810,Issa M'Bareck,21,Mauritania,0,,Attacking Midfield,€10k,3282
+1266261,Mouad Hmamouchi,0,Morocco,0,left,Right Winger,€10k,3282
+842564,El Habib Brija,25,Morocco,0,,Attacking Midfield,€350k,3282
+343949,Zakaria Hamadi,27,Italy,182,left,Left-Back,€300k,3282
+1055339,Redouan Ait Lamkadem,28,Morocco,175,both,Left Midfield,€500k,79389
+713000,Yassine El Khalej,26,Morocco,190,right,Centre-Back,€300k,79389
+235602,Abderahmane El Houasli,41,Morocco,185,right,Goalkeeper,€25k,79389
+1332783,Zoubir Housni,19,Morocco,174,right,Left Winger,€25k,79389
+1175868,Souhayl Zamrat,23,Morocco,18,left,Attacking Midfield,€150k,79389
+1267107,Ayoub Achab,23,Morocco,185,right,Defensive Midfield,€10k,79389
+727209,Banfa Sylla,29,Cote d'Ivoire,183,right,Defensive Midfield,€200k,79389
+667999,Anas Nanah,22,Morocco,177,left,Left-Back,€225k,79389
+1245251,Zakaria Kassary,19,Morocco,0,right,Central Midfield,€150k,79389
+1134255,Fouad Zahouani,19,Morocco,180,left,Left-Back,€1.00m,79389
+904578,Hassan Aqboub,21,Morocco,173,both,Left Winger,€100k,79389
+943495,Tahar Ahmed El Khalej,28,Portugal,191,left,Centre-Back,€350k,79389
+1066475,Youssef Kajai,27,Morocco,189,right,Centre-Back,€450k,79389
+1267109,Youness Dahmani,25,Morocco,0,,Left Winger,€250k,79389
+276255,Yacine Bammou,34,Morocco,189,right,Centre-Forward,€225k,79389
+869457,Walid Hasbi,21,Morocco,198,right,Goalkeeper,,79389
+1430198,Salim Ghazzani,22,Morocco,0,,Right Winger,€25k,79389
+593478,Hamza Bousqal,24,Morocco,0,,Defensive Midfield,€25k,79389
+1074351,Hossam Essadak,20,Morocco,180,left,Attacking Midfield,€1.00m,79389
+537209,Hamza Regragui,28,Morocco,190,both,Centre-Back,€350k,79389
+1180814,Khalid Kasbi,18,Morocco,185,right,Centre-Back,€50k,79389
+1443774,Zakaria Aiada,26,Morocco,0,,Right-Back,€10k,79389
+848947,Danny,25,Portugal,176,right,Attacking Midfield,€125k,79389
+667966,Mohamed Amine Essahel,22,Morocco,0,right,Attacking Midfield,€500k,79389
+245346,Brahim El Bahraoui,33,Morocco,177,,Centre-Forward,€200k,79389
+64490,Ilias Haddad,36,Netherlands,187,right,Centre-Back,€150k,79389
+708663,Tiago Lopes,26,Portugal,185,right,Centre-Forward,€25k,79389
+1443785,Ahmed Aboulfath,28,Morocco,0,,Attack,€10k,79389
+667992,Reda Asmama,23,Morocco,192,right,Goalkeeper,€50k,79389
+239291,Abdelkabir El Ouadi,32,Morocco,168,right,Left Winger,€250k,79389
+1134252,Adam Chakir,19,Morocco,173,right,Central Midfield,€25k,79389
+1246533,Taha Majni,18,Morocco,187,right,Centre-Back,€250k,79389
+1028119,Youness Akharraz,21,Morocco,0,right,Right-Back,€500k,79389
+1055313,Zineddine Brighet,23,Morocco,190,right,Defensive Midfield,€10k,79389
+1180811,Adam Baallal,18,Morocco,0,,Central Midfield,€50k,79389
+926103,Yassine Zraa,25,Morocco,183,right,Centre-Forward,€75k,79389
+1091486,Nasreddine Moustaghfir,22,Morocco,190,,Centre-Forward,€75k,79389
+238952,Soulaiman El Amrani,28,Morocco,181,,Centre-Back,€400k,22935
+1371032,Akram Haimoud,21,Morocco,179,left,Left-Back,€10k,22935
+913644,Zakary Lamgahez,22,France,185,right,Centre-Back,€150k,22935
+926806,Abdallah Boukhanfer,27,Morocco,185,left,Attacking Midfield,€250k,22935
+352125,Nassim Ouammou,32,France,181,left,Left-Back,€175k,22935
+1322435,Younes El Amali,21,Morocco,178,left,Left-Back,€25k,22935
+789533,Walid Jarmouni,25,France,189,left,Centre-Forward,€400k,22935
+353473,Jalal Tachtach,31,Morocco,0,,Central Midfield,€450k,22935
+709481,Ayoub Yousfi,22,Spain,179,left,Attacking Midfield,€50k,22935
+908118,Badreddine Octobre,25,Morocco,0,right,Defensive Midfield,€10k,22935
+1036559,Badreddine Abyir,27,Morocco,0,left,Goalkeeper,€350k,22935
+918020,Fahd Bendahmane,24,Morocco,175,right,Centre-Forward,€300k,22935
+292309,Hicham El Majhed,34,Morocco,193,right,Goalkeeper,€150k,22935
+1110587,Abdelali Ait Brayim,22,Morocco,0,left,Attacking Midfield,€125k,22935
+1174677,Zakaria Ami,23,Morocco,176,,Defensive Midfield,€400k,22935
+642295,Rodrigue Kossi Fiogbé,25,Benin,181,right,Defensive Midfield,€225k,22935
+1184401,Assane Bèye,25,Senegal,180,left,Centre-Back,€400k,22935
+467571,Fred Dembi,30,Congo,184,right,Defensive Midfield,€300k,22935
+1327935,Hamza Moumadi,20,Morocco,0,,Central Midfield,€25k,22935
+1337458,Baba Bello Ilou,20,Cameroon,185,right,Centre-Forward,€225k,22935
+920577,Aziz Kaidi,29,Morocco,183,right,Left Winger,€200k,22935
+1194144,Mehdi Akoumi,19,Morocco,180,right,Central Midfield,€125k,22935
+1153106,Ilyass Motik,20,Morocco,192,right,Goalkeeper,€100k,22935
+1233132,Ismail Hrila,21,Morocco,189,right,Centre-Back,€125k,22935
+1270327,Hamza El Belghyty,20,Morocco,170,right,Midfield,€10k,22935
+1338486,Ayman Tarrazi,20,Morocco,0,,Right-Back,€275k,22935
+182912,Ange-Freddy Plumain,30,Guadeloupe,184,right,Left Winger,€325k,22935
+975918,Mohamed Bakhkhach,23,Morocco,0,,Left Winger,€400k,22935
+491280,Euclides Cabral,26,Portugal,179,right,Right-Back,€400k,22935
+1134278,Mohamed Amine Katiba,19,Morocco,181,right,Defensive Midfield,€550k,22935
+593395,Abderrahmane Kernane,25,Morocco,186,left,Goalkeeper,€25k,22944
+1263250,Anas Mkhair,22,Morocco,188,,Midfield,€25k,22944
+823069,Imad Askar,27,Morocco,190,right,Goalkeeper,€25k,22944
+1258563,Oussama Ichou,20,Morocco,0,,Central Midfield,€25k,22944
+518828,Saad El Morsli,27,Morocco,170,left,Left Winger,€450k,22944
+1258564,Anas Soufeir,24,Morocco,179,right,Right-Back,€75k,22944
+1065548,Aboubacar Sylla,21,Cote d'Ivoire,190,,Defender,€10k,22944
+244941,Hamza Semmoumy,33,Morocco,174,right,Right-Back,€50k,22944
+1097559,Anass Eddaou,26,Morocco,172,right,Left Winger,€250k,22944
+846437,Salaheddine Errahouli,23,Morocco,0,,Right Winger,€550k,22944
+858910,Yassine Kordani,34,Morocco,188,right,Centre-Back,€150k,22944
+908108,Ayman Hadry,25,Morocco,0,,Right-Back,€25k,22944
+1235904,Yasser Ezzine,21,Morocco,184,left,Left-Back,€200k,22944
+312825,Fred Ngoma,28,Congo,173,,Attacking Midfield,€250k,22944
+1233335,Moriba Traoré,22,Mali,168,both,Central Midfield,€25k,22944
+836467,Abderrahmane Qassaq,27,Morocco,175,right,Attacking Midfield,€400k,22944
+712125,Anouar Tarkhatt,28,Morocco,182,both,Centre-Back,€450k,22944
+203755,Sofian El Moudane,31,France,178,right,Attacking Midfield,€350k,22944
+182885,Mohamed Chemlal,30,France,170,right,Attacking Midfield,€450k,22944
+364239,Moussa Koné,28,Senegal,175,right,Centre-Forward,€500k,22944
+1235902,Ahmed El Houari,21,Morocco,178,,Attacking Midfield,€250k,22944
+848420,Walid Rhailouf,27,Morocco,186,,Central Midfield,€375k,22944
+681726,Hamza Hamiani,31,Morocco,187,right,Goalkeeper,€500k,22944
+902847,Faraji Karmoune,28,Morocco,186,both,Right-Back,€350k,22944
+860299,Charki El Bahri,32,Morocco,0,,Centre-Forward,€300k,22944
+929321,Karim L'Koucha,25,Morocco,0,,Right Winger,€350k,22944
+1256643,Anas Samoudi,18,Morocco,0,right,Right Winger,€50k,22944
+650001,Marwane Elaz,29,Morocco,172,,Left Winger,€75k,22944
+842528,Karim El Bounagate,25,Morocco,189,left,Centre-Back,€225k,30625
+484572,Anass Nouader,27,Morocco,182,,Centre-Back,€275k,30625
+234836,Youssef Anouar,35,Morocco,165,right,Left Winger,€300k,30625
+239127,Larbi Naji,35,Morocco,185,right,Defensive Midfield,€400k,30625
+1340455,Yassine Senhaji,19,Morocco,181,right,Centre-Forward,€25k,30625
+1340454,Soufiane Taher,21,Morocco,187,right,Goalkeeper,€10k,30625
+864078,Yacoub El Id,24,Mauritania,181,,Midfield,€10k,30625
+868656,Mouad Goulouss,32,Morocco,171,right,Attacking Midfield,€275k,30625
+857713,Mustapha Sahd,32,Morocco,182,right,Centre-Forward,€375k,30625
+933020,Imad Khannouss,32,Morocco,179,both,Left Winger,€125k,30625
+1309589,Ayoub Lourhraz,24,Morocco,171,,Right-Back,€50k,30625
+1123784,Zouhir Eddib,23,Morocco,183,right,Centre-Forward,€275k,30625
+805351,Achraf Hmaidou,25,Morocco,176,right,Defensive Midfield,€325k,30625
+1102874,Adnane Berdad,32,Morocco,0,right,Central Midfield,€275k,30625
+1416427,Mohamed Ferhane,22,Morocco,190,right,Centre-Forward,,30625
+1105269,Abdellatif Benkassou,22,Morocco,0,right,Right Winger,€250k,30625
+440323,Ismael Benktib,27,Morocco,177,right,Central Midfield,€450k,30625
+1125067,Younes Sakhi,25,Morocco,187,both,Right Winger,€175k,30625
+1263910,Mohamed Zinaf,22,Morocco,0,,Attacking Midfield,€50k,30625
+1459802,Marius Mbou,21,Congo,186,right,Central Midfield,,30625
+518849,Zakaria Nassik,28,Morocco,177,left,Left-Back,€250k,30625
+703639,Driss El Abdi,32,Morocco,0,left,Centre-Back,€50k,30625
+375635,Reda Bounaga,36,Morocco,187,right,Goalkeeper,€75k,30625
+1092073,Chemseddine Knaidil,23,Morocco,0,left,Left-Back,€325k,30625
+643992,Imrane Fiddi,27,Morocco,173,right,Right-Back,€150k,30625
+536874,Amine Dghoughi,33,Morocco,174,right,Attacking Midfield,€175k,30625
+850874,Cruz Ndong Bitheghe,24,Gabon,178,,Attack,€25k,30625
+520441,Oussama Daoui,30,Morocco,0,right,Right-Back,€300k,30625
+712124,Youssef Limouri,26,Morocco,0,,Centre-Back,€550k,30625
+238963,Yassine Jbira,29,Morocco,172,left,Left-Back,€275k,30625
+1097549,Mohamed Gharmal,37,Morocco,177,,Attacking Midfield,€10k,30625
+366783,Aymane Majid,30,Morocco,187,,Goalkeeper,€450k,30625
+556868,Aissa Sioudi,28,Morocco,188,,Goalkeeper,€75k,74953
+617083,Zacarías Ghailán,23,Morocco,173,right,Left Winger,€125k,74953
+855878,James Ajako,22,Nigeria,178,left,Centre-Back,€450k,74953
+926537,Aymane El Aouani,25,Morocco,0,left,Left-Back,€50k,74953
+790406,Zakaria Bahrou,28,Morocco,183,right,Centre-Forward,€450k,74953
+1406018,Ismail Zeroual,26,Morocco,181,right,Left Winger,€10k,74953
+1263222,Yazid Faffa,24,Morocco,169,right,Right Winger,€250k,74953
+837173,Abdellah Farah,24,Morocco,0,,Right Winger,€200k,74953
+234900,Mehdi El Jourbaoui,32,Morocco,0,,Goalkeeper,€300k,74953
+1428468,Mohammed Maid,21,Morocco,0,,Centre-Back,,74953
+822539,Ayoub Tine,33,Morocco,0,right,Right-Back,€100k,74953
+731876,Montassir Lahtimi,24,Morocco,185,left,Right Winger,€350k,74953
+1264456,Amine Balich,22,Morocco,174,left,Left-Back,€25k,74953
+365362,Mohammad El Fakih,35,Morocco,175,right,Attacking Midfield,€50k,74953
+1210076,Marouane Oujeddou,21,Morocco,181,left,Right Winger,€200k,74953
+1076082,Anass El Ghannouj,28,Morocco,181,,Defensive Midfield,€225k,74953
+558706,Zouheir El Hachemi,27,Morocco,177,right,Right-Back,€150k,74953
+1274616,Ishak Zidani,24,Morocco,188,right,Defensive Midfield,€375k,74953
+858917,Abdessamad Badaoui,26,Morocco,0,,Right-Back,€250k,74953
+800365,Reda Lakhmidi,25,Morocco,178,right,Attacking Midfield,€10k,74953
+897600,Abdelaziz El Hamzaoui,33,Morocco,186,left,Left Winger,€75k,74953
+1033958,Zakaria Fatihi,27,Morocco,175,,Right Winger,€225k,74953
+549322,Ayoub Joulale,27,Morocco,0,right,Right Midfield,€10k,74953
+1203684,Abdellatif El Bajjani,30,Morocco,0,,Defensive Midfield,€200k,74953
+499511,Marouane Fakhr,36,Morocco,182,right,Goalkeeper,€100k,74953
+800592,Taha Al Achbili,24,Morocco,175,left,Left Winger,€10k,74953
+1060545,Ousmane Diallo,26,Mali,181,left,Left-Back,€125k,74953
+727252,Bilal Soufi,26,Morocco,0,,Centre-Back,€200k,74953
+1309132,Ahmed Rhailouf,21,Morocco,188,right,Centre-Forward,€200k,74953
+1262530,Reda Ait Boughima,25,Morocco,181,right,Centre-Back,€100k,74953
+665743,Moustapha Chichane,34,Morocco,180,right,Defensive Midfield,€25k,74953
+667972,Youssef Aoujdal,23,Morocco,181,right,Centre-Back,€10k,74953
+727075,Mohamed Ferni,26,Morocco,186,right,Goalkeeper,€225k,74953
+738953,Ismail Gourad,24,Morocco,0,left,Left Winger,€25k,74953
+1203850,Oussama Benchchaoui,24,Morocco,178,right,Right-Back,€75k,14462
+820480,Youssef Michte,26,Morocco,178,right,Defensive Midfield,€300k,14462
+1210182,Ayoub El Khafi,26,Morocco,0,,Central Midfield,€25k,14462
+235116,Marouane Hadhoudi,33,Morocco,190,right,Centre-Back,€300k,14462
+1422476,Zakaria Oubraim,23,Morocco,183,,Right-Back,€25k,14462
+1087382,Aymane Takoua,21,Morocco,191,left,Centre-Back,€10k,14462
+366775,Achraf Al Idrissi,30,Morocco,172,right,Defensive Midfield,,14462
+738071,Romuald Dacosta,26,Senegal,182,both,Right Winger,€225k,14462
+176573,Babacar Niasse,29,Mauritania,196,right,Goalkeeper,€400k,14462
+717216,Marouane Lemzaouri,32,Morocco,0,,Right-Back,€325k,14462
+617595,Marouane Bessak,29,Morocco,190,right,Goalkeeper,€200k,14462
+1336614,Papa Souley Diallo,20,Senegal,0,right,Left Winger,€10k,14462
+1210187,Mohamed Hilali,26,Morocco,0,,Attacking Midfield,€25k,14462
+275262,Omar Jerrari,31,Morocco,177,left,Left-Back,€450k,14462
+1178984,Hamza Malki,29,Morocco,178,left,Left-Back,€250k,14462
+863506,Khalid Baba,25,Morocco,0,,Right Winger,€550k,14462
+891953,Abderrazak Ennakouss,24,Morocco,190,left,Centre-Forward,€125k,14462
+1172375,Brahim El Idrissi Bouzidi,25,Morocco,181,right,Defensive Midfield,€325k,14462
+1307857,Ayoub Ait Wahmane,24,Morocco,0,,Goalkeeper,€10k,14462
+1273576,Abdellah Ziani,22,Morocco,167,right,Left Winger,€175k,14462
+1076078,Yassine Fatine,29,Morocco,183,both,Centre-Back,€275k,14462
+1302320,Abdoulaye Sanogo,21,Mali,187,right,Centre-Back,€25k,14462
+902827,Soufiane Abaaziz,27,Morocco,179,left,Left-Back,€200k,14462
+840930,Imad Sabik,28,Morocco,0,,Right Winger,€50k,14462
+882909,Mohamed Bentarcha,27,Morocco,187,right,Centre-Back,€175k,14462
+1002677,Mouad Mouchtanim,26,Morocco,0,left,Central Midfield,€25k,14462
+1004272,Yassine Lamine,26,Morocco,0,,Left Winger,€225k,14462
+1307908,Houdaifa Jamaäne,19,Morocco,0,,Central Midfield,€10k,14462
+321629,Moctar El Hacen,27,Mauritania,181,right,Defensive Midfield,€300k,14462
+539612,Siriky Sanogo,24,Cote d'Ivoire,178,left,Central Midfield,€125k,12721
+496570,Badr Gaddarine,28,Morocco,178,left,Left-Back,€450k,12721
+1191484,Nawfal Chninak,19,Morocco,180,,Centre-Forward,€10k,12721
+683336,Faouzi Abdoul Mutalib,32,Morocco,0,,Defensive Midfield,€325k,12721
+717214,Zakaria Kiani,28,Morocco,170,right,Right-Back,€450k,12721
+240721,Mohamed Saoud,29,Morocco,186,right,Centre-Back,€400k,12721
+245202,Anass Lamrabat,32,Morocco,0,left,Left-Back,€250k,12721
+836632,Youssef Laghzal,24,Morocco,0,,Goalkeeper,€50k,12721
+859901,Bilal El Ouadghiri,24,Morocco,186,,Centre-Back,€450k,12721
+203378,Zakaria Bakkali,29,Belgium,170,right,Left Winger,€175k,12721
+507358,Haytham El Bahja,32,Morocco,175,left,Right Winger,€275k,12721
+1333330,Louay El Moussaoui,21,Morocco,0,,Left-Back,€10k,12721
+1303960,Papa Magueye Gaye,19,Senegal,0,,Centre-Forward,€100k,12721
+846673,Amine El Ouaad,30,Morocco,0,,Goalkeeper,€350k,12721
+660039,Ennaama El Bellali,27,Morocco,190,right,Defensive Midfield,€350k,12721
+1064714,Akram El Wahabi,21,Spain,0,Ittihad Tanger,Centre-Back,€10k,12721
+1204741,Livty Kpolo,23,France,0,,Centre-Forward,€25k,12721
+77385,Mohsine Moutaouali,39,Morocco,174,right,Attacking Midfield,€75k,12721
+1183709,Adam Darazi,20,France,172,right,Defensive Midfield,€10k,12721
+240714,Ahmed Chentouf,29,Morocco,0,,Central Midfield,€75k,12721
+461581,Malcolm Barcola,26,Togo,195,right,Goalkeeper,€50k,12721
+701611,Jawad Ghabra,31,Morocco,184,right,Right Winger,€325k,12721
+823072,Oussama Al Aiz,24,Morocco,0,,Centre-Back,€275k,12721
+972603,Hamza El Moudene,30,Morocco,0,right,Central Midfield,€250k,12721
+1307015,Antoine Chiniard,19,France,0,,Midfield,,12721
+1416877,Hamza Founti,25,Morocco,0,,Centre-Forward,€50k,4697
+1033957,Ismail Mihrab,29,Morocco,173,left,Right Winger,€375k,4697
+1370977,Mohamed Welé,23,Senegal,187,left,Centre-Back,,4697
+1133028,Redouane Mennioui,26,Morocco,188,right,Centre-Back,€150k,4697
+902834,Hamza Zagmouzi,23,Morocco,0,both,Attack,€10k,4697
+1262531,Younes El Bahraoui,20,Morocco,180,right,Centre-Forward,€250k,4697
+1204104,Claude Gnolou,23,Cote d'Ivoire,170,right,Defensive Midfield,€350k,4697
+1267056,Akram El Hamdaoui,30,Morocco,0,,Centre-Back,€175k,4697
+530999,Mohamed Baayou,32,Morocco,182,,Goalkeeper,€50k,4697
+231941,Khalid Boutaïb,38,Morocco,189,right,Centre-Forward,€125k,4697
+1230677,Ismail Gazaoui,27,Morocco,0,,Right-Back,€10k,4697
+867271,Mohamed Jemjami,26,Morocco,188,right,Goalkeeper,€150k,4697
+840926,Youssef Raiani,27,Morocco,186,left,Central Midfield,€100k,4697
+1043567,Mohamed Elabdi,28,Morocco,180,left,Left-Back,€150k,4697
+588635,Johnstone Omurwa,27,Kenya,191,right,Centre-Back,€450k,4697
+720443,Oussama Haffari,26,Morocco,170,left,Left Winger,€75k,4697
+1440454,Hamza Fassoukh,26,Morocco,175,right,Right-Back,€150k,4697
+841119,Saleh Essallami,29,Morocco,0,right,Left Winger,€175k,4697
+990144,Nadir Lougmani,23,Morocco,173,,Right-Back,€250k,4697
+1188206,Yaya Diassy,21,Senegal,196,right,Central Midfield,€25k,4697
+1258577,Mohamed Adam Benhita,0,Morocco,0,YSI Football,Centre-Back,€100k,4697
+717223,Jad Assouab,30,Morocco,189,right,Centre-Back,€325k,4697
+902813,Khalil Tamrani,24,Morocco,0,,Attacking Midfield,€10k,4697
+1269733,Souleymane Cissé,25,Senegal,182,right,Left Winger,€75k,4697
+951671,Ousseini Badamassi,28,Niger,0,,Central Midfield,€75k,4697
+1048594,Ismail El Alami,26,Morocco,190,left,Centre-Back,€10k,4697
+691877,Jawad Khalouk,27,Morocco,174,left,Left-Back,€25k,4697
+841118,Oussama Mahrous,30,Morocco,0,,Central Midfield,€250k,4697
+841736,Hamza El Janati,26,Morocco,183,right,Right Winger,€500k,4697
+1203849,Hamza Smaali,26,Morocco,0,,Midfield,€10k,4697
+1410532,Anass Rachak,18,Morocco,190,right,Goalkeeper,,4697
+1459207,Hamza Rafaa,24,Morocco,0,,Midfield,€25k,4697
+536879,Youssef Zghoudi,33,Morocco,182,both,Right Winger,€225k,4697
+519245,Ibrahim El Omari,29,Morocco,190,,Centre-Forward,€25k,4697
+897139,Naoufal Ait Oubna,24,Morocco,0,,Goalkeeper,€25k,4697
+885446,Hassan Doughmi,25,Morocco,185,right,Goalkeeper,€200k,103954
+1338344,Jalal-Eddine El Khfiyef,25,Morocco,165,left,Attacking Midfield,€175k,103954
+1338402,Anas Alami Harraki,21,Morocco,180,both,Defensive Midfield,€10k,103954
+1338340,Mohamed Ahayaoui,23,Morocco,0,,Central Midfield,€10k,103954
+1297881,Fahd El Kaaba,21,Morocco,0,,Midfield,€10k,103954
+1203683,Mouhcine Boussanane,33,Morocco,182,right,Centre-Forward,€75k,103954
+1338336,Adil Khalloufi,26,Morocco,0,,Central Midfield,€175k,103954
+244921,Mohamed Nasser Allah Jamal,28,Morocco,178,right,Centre-Back,€10k,103954
+1338946,Hatim Mrabet,28,Morocco,0,,Left-Back,€25k,103954
+1260898,Moad Kharjan,28,Morocco,0,,Defensive Midfield,€25k,103954
+799020,Ayoub El Bouadli,26,Morocco,173,right,Attacking Midfield,€10k,103954
+1133029,Mehdi Balouk,30,Morocco,0,,Centre-Forward,€200k,103954
+1338337,Saad Salih,22,Morocco,183,left,Right Winger,€10k,103954
+1203885,Anas Lagziri,31,Morocco,0,,Defensive Midfield,€10k,103954
+1293625,Ilyass Badri,27,Morocco,181,right,Centre-Back,€10k,103954
+1256586,Nassim Azzoubairi,30,Morocco,0,,Left-Back,€175k,103954
+1338434,Ismail Sayad,27,Morocco,0,,Goalkeeper,€150k,103954
+903847,Achraf Zine,25,Morocco,191,right,Centre-Back,€200k,103954
+902853,Hafs Kasbi,23,Morocco,0,,Goalkeeper,€25k,103954
+502657,Anas Jabroun,28,Morocco,169,right,Left Winger,€75k,103954
+234897,Abdelali Khouch,28,Morocco,0,both,Left-Back,€25k,103954
+375626,Youssef Legnibi,30,Morocco,183,both,Defensive Midfield,€25k,103954
+625170,Ilyas Bougafer,22,Morocco,0,right,Left Winger,€10k,103954
+1260850,Ibrahim Boumalk,27,Morocco,0,left,Attacking Midfield,€10k,103954
+1338341,Youness Noussir,31,Morocco,0,,Right-Back,€125k,103954
+499513,Zakaria Fati,33,Morocco,175,,Left Winger,€225k,103954
+736943,Yassine Morsil,27,Morocco,184,right,Right-Back,€100k,103954
+375629,Zouhair Marour,30,Morocco,182,left,Centre-Back,€300k,103954
+262895,Soufyan Ahannach,30,Netherlands,179,right,Left Winger,€300k,103954
+1268379,Brahim Mansouri,29,Morocco,0,right,Right Winger,€175k,103954
+1338250,Salah Eddine Essalehy,21,Morocco,0,,Left Winger,€10k,59771
+902800,Mohamed Idar,39,Morocco,0,right,Goalkeeper,€50k,59771
+1338253,Salah Eddine Abderahim,21,Morocco,178,both,Centre-Forward,€10k,59771
+1338805,Mounir El Gouj,22,Morocco,0,,Midfield,€10k,59771
+1211423,Hamza Saoud,29,Morocco,0,,Attacking Midfield,€125k,59771
+1207194,Brahim Amzili,32,Morocco,0,right,Midfield,€125k,59771
+689433,Yassine Boughaz,32,Morocco,177,right,Centre-Back,€25k,59771
+949538,Cheick Keita,26,Mali,188,right,Centre-Back,€150k,59771
+925830,Mouhcine Boumlik,28,Morocco,184,left,Centre-Back,€25k,59771
+1207223,Redouane Oubidar,27,Morocco,0,right,Midfield,€150k,59771
+1211503,Hafid Id Said,27,Morocco,184,right,Goalkeeper,€10k,59771
+1338256,Khalid Raiss,22,Morocco,185,,Midfield,€10k,59771
+1261669,Ismail Soubai,25,Morocco,182,right,Centre-Back,€25k,59771
+1229756,Tarik El Koutouby,29,Morocco,0,,Goalkeeper,€10k,59771
+902833,Mohamed Hamdi,32,Morocco,175,right,Central Midfield,€10k,59771
+1211424,Amine Aghou,27,Morocco,178,right,Centre-Forward,€125k,59771
+1274437,Aboujemaa Ameur,21,Morocco,187,left,Centre-Back,€125k,59771
+902816,Brahim Ait Hammou,27,Morocco,0,right,Right Winger,€75k,59771
+1274414,Abdellah Manni,22,Morocco,0,,Defender,€10k,59771
+238120,Ayoub Benaadi,32,Morocco,0,,Attacking Midfield,€250k,59771
+1203860,Yassine Jabrane,25,Morocco,190,right,Left Winger,€75k,59771
+733894,Younes El Khafi,31,Morocco,178,left,Left-Back,€100k,59771
+211632,Youssef Fahmi,28,Morocco,0,right,Defensive Midfield,€50k,59771
+859897,Mohssine Abba,25,Morocco,178,left,Centre-Forward,€50k,59771
+996378,Hamza Jananallah,25,Morocco,0,left,Left Midfield,€75k,59771
+1338252,Mohamed Adjar,23,Morocco,0,,Attacking Midfield,€25k,59771
+1173700,Hicham Ait Brayem,29,Morocco,0,right,Right-Back,€175k,59771
+1261753,Omar Ouddah,27,Morocco,179,both,Defensive Midfield,€25k,59771
+1261675,Reda Abardi,33,Morocco,0,,Centre-Forward,€175k,59771
+1172369,Mohamed Habbali,33,Morocco,166,,Right Winger,€200k,59771
+857712,Charaf-Eddine Boulahroud,24,Morocco,180,right,Central Midfield,€10k,59771
+902848,Soufiane Jazouli,30,Morocco,0,left,Left Winger,€10k,59771
+1338251,Anass Aziz,0,Morocco,0,,Midfield,€10k,59771
