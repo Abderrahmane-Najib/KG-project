@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Football Scout Pro</title>
+    <title>PitchCypher - Football Analytics</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -1078,11 +1078,9 @@
     <!-- Team Selection Screen -->
     <div class="team-select-screen" id="team-select-screen">
         <div class="team-select-container">
-            <div class="team-select-logo">
-                <i class="fas fa-futbol"></i>
+            <div class="team-select-logo" style="background: transparent; width: 300px; height: 300px;">
+                <img src="/Logo.png" alt="PitchCypher" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
-            <h1 class="team-select-title">Football Scout Pro</h1>
-            <p class="team-select-subtitle">Select your team to start scouting</p>
 
             <select class="team-select-dropdown" id="team-dropdown">
                 <option value="">Choose your team...</option>
@@ -1100,8 +1098,8 @@
         <!-- Header -->
         <header class="app-header">
             <div class="header-left">
-                <div class="header-logo">
-                    <i class="fas fa-futbol"></i>
+                <div class="header-logo" style="background: transparent; padding: 0; width: 80px; height: 80px;">
+                    <img src="/Logo.png" alt="PitchCypher" style="width: 100%; height: 100%; object-fit: contain;">
                 </div>
                 <div class="header-team" id="header-team" onclick="changeTeam()">
                     <img id="current-team-logo" src="" alt="" style="width: 32px; height: 32px; border-radius: 50%; display: none; object-fit: contain; background: white;">

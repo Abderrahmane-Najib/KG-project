@@ -143,6 +143,12 @@ async def root():
     return FileResponse("templates/index.html")
 
 
+@app.get("/Logo.png")
+async def get_logo():
+    """Serve the logo."""
+    return FileResponse("Logo.png", media_type="image/png")
+
+
 @app.get("/api/filters")
 async def get_filters():
     """Get available filter options (nationalities, teams)."""
