@@ -76,10 +76,13 @@ chain = GraphCypherQAChain.from_llm(
     graph=graph,
     cypher_prompt=CYPHER_PROMPT,
     qa_prompt=QA_PROMPT,
-    verbose=True,
+    verbose=False,  # Set to True for debugging
     allow_dangerous_requests=True,
-    return_intermediate_steps=True
+    return_intermediate_steps=False
 )
+
+# Export for use by other modules
+__all__ = ['chain', 'graph', 'llm', 'analyze_transfer', 'compare_players', 'find_players_for_position']
 
 
 def analyze_transfer(question: str) -> str:

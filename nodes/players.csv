@@ -1,0 +1,462 @@
+id,name,age,nationality,jerseyNumber,height,weight,preferred_foot,preferred_positions,market_value,overall_rating,minutes_played
+865473,"Stephane Aziz Ki",29,"Burkina Faso",25,180,None,"Left","F",290000,None,None
+933770,"Hamza Hannouri",27,"Morocco",19,188,None,,"F",580000,None,None
+990661,"Tumisang Orebonye",29,"Botswana",9,180,None,"Right","F",365000,None,None
+359290,"Zouhair El Moutaraji",29,"Morocco",7,178,None,"Right","F",235000,None,None
+1155867,"Mohammed El Ouardi",25,"Morocco",21,172,None,"Right","F",23000,None,None
+249437,"Hakim Ziyech",32,"Morocco",93,181,None,"Left","M",2800000,None,None
+894744,"Thembinkosi Lorch",32,"South Africa",3,170,None,"Right","M",465000,None,None
+27714,"Nordin Amrabat",38,"Morocco",11,178,None,"Right","M",135000,None,None
+1382913,"Arthur Wenderroscky",20,"Brazil",10,172,None,"Left","M",405000,None,None
+340547,"Hamza Sakhi",29,"Morocco",29,172,None,"Right","M",750000,None,None
+1199422,"Pedrinho",21,"Brazil",33,170,None,"Right","M",390000,None,None
+359278,"Walid Sabbar",29,"Morocco",6,182,None,"Right","M",365000,None,None
+1140890,"Abdelghafour Lamirat",28,"Morocco",15,181,None,"Right","M",550000,None,None
+340511,"Mohamed Rayhi",31,"Netherlands",8,178,None,"Right","M",690000,None,None
+1095732,"Oussama Zemraoui",23,"Morocco",23,172,None,"Left","M",625000,None,None
+1210560,"Walid Nassi",25,"Morocco",28,180,None,"Left","M",285000,None,None
+1863859,"Mouad Aounzou",24,"Morocco",21,175,None,"Right","M",23000,None,None
+880101,"Hamza El Wasti",30,"Morocco",18,186,None,"Right","M",420000,None,None
+2142026,"Rayane Mahtou",20,"Morocco",17,184,None,"Both","M",,None,None
+973826,"Guilherme Ferreira",26,"Brazil",14,193,None,"Right","D",370000,None,None
+1140872,"Mohamed Moufid",25,"Morocco",2,172,None,"Right","D",875000,None,None
+965329,"Mohamed Bouchouari",25,"Belgium",34,170,None,"Right","D",590000,None,None
+809290,"Bart Meijers",28,"Netherlands",22,185,None,"Right","D",655000,None,None
+1009188,"Amine Aboulfath",28,"Morocco",4,183,None,"Right","D",495000,None,None
+970606,"Ayoub Boucheta",32,"Morocco",24,173,None,"Left","D",535000,None,None
+1845545,"Mohammed El Jadidi",21,"Morocco",5,190,None,"Right","D",185000,None,None
+2290450,"Souhail Amri",30,"Morocco",,180,None,,"D",,None,None
+970630,"El Mehdi Benabid",27,"Morocco",16,187,None,"Right","G",1400000,None,None
+1140796,"Youssef El Motie",30,"Morocco",1,193,None,"Right","G",750000,None,None
+2021713,"Omar Aqzdaou",22,"Morocco",36,197,None,"Right","G",24000,None,None
+919739,"Abdelali Mhamdi",34,"Morocco",1,192,None,"Right","G",440000,None,None
+971037,"Amad Diallo",23,"Côte d'Ivoire",16,173,None,"Left","F",39000000,None,None
+986397,"Benjamin Šeško",22,"Slovenia",30,195,None,"Right","F",73000000,None,None
+886363,"Matheus Cunha",26,"Brazil",10,184,None,"Right","F",73000000,None,None
+1004433,"Reda Slim",26,"Morocco",10,176,None,"Right","F",1400000,None,None
+1474715,"Mohssine Bourika",25,"Morocco",9,190,None,"Right","F",195000,None,None
+919681,"Hamza Khabba",29,"Morocco",17,187,None,"Right","F",505000,None,None
+1094481,"Achref Habbassi",23,"Tunisia",18,177,None,"Left","F",360000,None,None
+1407116,"Destin Maniriho",26,"Burundi",,176,None,"Right","F",,None,None
+919489,"Mohamed Rabie Hrimat",31,"Morocco",34,186,None,"Right","M",1600000,None,None
+1476706,"Khalid Ait Ouarkhane",25,"Morocco",8,179,None,"Right","M",825000,None,None
+978955,"Youssef El Fahli",28,"Morocco",7,182,None,"Right","M",1000000,None,None
+919533,"Ahmed Hammoudan",34,"Morocco",11,176,None,"Right","M",430000,None,None
+1008872,"Abdelfettah Hadraf",27,"Morocco",40,177,None,"Right","M",485000,None,None
+1416474,"Taoufik Razko",23,"Morocco",20,,None,"Right","M",240000,None,None
+1008631,"Zinedine Derrag",26,"Morocco",6,171,None,"Right","M",930000,None,None
+1402635,"Soulaimane El Bouchqali",22,"Morocco",20,182,None,"Right","M",410000,None,None
+1894253,"Zakaria Ajoughlal",24,"Morocco",21,,None,"Left","M",48000,None,None
+2120617,"Achraf Missou",,,45,,None,,"M",,None,None
+178721,"Yunis Abdelhamid",38,"Morocco",5,190,None,"Left","D",325000,None,None
+1518450,"Marouane Louadni",30,"Morocco",15,190,None,"Right","D",550000,None,None
+919477,"Anas Bach",27,"Morocco",3,176,None,"Right","D",1500000,None,None
+923882,"Tó Carneiro",30,"Angola",2,170,None,"Left","D",520000,None,None
+1444497,"Nouh Mohamed El Abd",24,"Mauritania",24,186,None,"Right","D",245000,None,None
+1008347,"Jamal Ech-Chammakh",25,"Morocco",23,,None,"Left","D",525000,None,None
+2046059,"Fallou Formose Mendy",25,"Senegal",4,185,None,"Left","D",375000,None,None
+2127597,"Ayoub Ait Khassou",21,"Morocco",27,181,None,"Right","D",,None,None
+2120614,"Mohammed Kebdani",19,"Morocco",97,,None,,"D",,None,None
+359280,"Ahmed Reda Tagnaouti",29,"Morocco",16,192,None,"Right","G",760000,None,None
+1401592,"Ayoub El Khayati",27,"Morocco",1,198,None,"Right","G",365000,None,None
+1168800,"Soufiane Benjdida",24,"Morocco",9,178,None,"Right","F",735000,None,None
+1500985,"Mouad Hmamouchi",,"Morocco",20,,None,"Left","F",,None,None
+2121452,"Zakaria Allaoui",19,"Morocco",17,,None,,"F",,None,None
+961690,"Soulaïman Allouch",23,"Netherlands",11,174,None,"Right","M",500000,None,None
+544156,"Anas Tahiri",30,"Morocco",19,179,None,"Right","M",420000,None,None
+944009,"Kabelo Seakanyeng",32,"Botswana",7,171,None,"Right","M",390000,None,None
+374560,"Amine Oudrhiri",33,"Morocco",95,184,None,"Right","M",265000,None,None
+1545316,"Noureddine Oussama",24,"Morocco",6,180,None,"Right","M",440000,None,None
+1528418,"Youssef Dalouzi",23,"Morocco",77,181,None,"Right","M",185000,None,None
+919329,"Achraf Harmach",32,"Morocco",8,176,None,"Right","M",530000,None,None
+1140935,"El Habib Brija",25,"Morocco",27,,None,,"M",340000,None,None
+1140855,"Hamza Afsal",29,"Morocco",2,184,None,"Both","M",485000,None,None
+1461681,"Nizar Guessous",21,"Morocco",23,174,None,"Left","M",,None,None
+1461320,"Mohamed Loumim",24,"Morocco",24,,None,,"M",,None,None
+1613042,"Issa M'bareck",21,"Mauritania",13,,None,,"M",,None,None
+1482836,"Benjamin Tanimu",23,"Nigeria",28,175,None,"Right","D",245000,None,None
+812947,"Kevin Yamga",29,"France",17,187,None,"Right","D",720000,None,None
+1008599,"Abdelilah Madkour",25,"Morocco",29,,None,"Right","D",360000,None,None
+826571,"Zakaria Hamadi",27,"Italy",3,175,None,"Left","D",285000,None,None
+1004523,"Hamza Ait Allal",24,"Morocco",22,184,None,"Right","D",370000,None,None
+316583,"Adil Rhaili",34,"Morocco",13,192,None,"Left","D",130000,None,None
+1619134,"Driss El-Jabli",27,"Morocco",32,187,None,"Right","D",415000,None,None
+1103558,"Marouane Ouhrou",23,"Morocco",21,178,None,"Left","D",335000,None,None
+919474,"Saad Ait Khorsa",31,"Morocco",4,186,None,"Left","D",365000,None,None
+1004426,"Ayman Chabani",,"Morocco",,189,None,"Right","",180000,None,None
+1011278,"Reda Mhannaoui",,"Morocco",,171,None,"Right","",220000,None,None
+1140820,"Salaheddine Chihab",,"Morocco",,198,None,"Right","",970000,None,None
+1997651,"Walid Lghrissi",,"Morocco",,,None,,"",,None,None
+1845576,"Oussama Errahmany",,"Morocco",,195,None,"Both","",160000,None,None
+2150417,"Adam   Brika",,,,,None,,"",,None,None
+1936634,"Akram Khalifi",,,,,None,,"",,None,None
+1168800,"Soufiane Benjdida",24,"Morocco",9,178,None,"Right","F",735000,None,None
+1500985,"Mouad Hmamouchi",,"Morocco",20,,None,"Left","F",,None,None
+2121452,"Zakaria Allaoui",19,"Morocco",17,,None,,"F",,None,None
+961690,"Soulaïman Allouch",23,"Netherlands",11,174,None,"Right","M",500000,None,None
+544156,"Anas Tahiri",30,"Morocco",19,179,None,"Right","M",420000,None,None
+944009,"Kabelo Seakanyeng",32,"Botswana",7,171,None,"Right","M",390000,None,None
+374560,"Amine Oudrhiri",33,"Morocco",95,184,None,"Right","M",265000,None,None
+1545316,"Noureddine Oussama",24,"Morocco",6,180,None,"Right","M",440000,None,None
+1528418,"Youssef Dalouzi",23,"Morocco",77,181,None,"Right","M",185000,None,None
+919329,"Achraf Harmach",32,"Morocco",8,176,None,"Right","M",530000,None,None
+1140935,"El Habib Brija",25,"Morocco",27,,None,,"M",340000,None,None
+1140855,"Hamza Afsal",29,"Morocco",2,184,None,"Both","M",485000,None,None
+1461681,"Nizar Guessous",21,"Morocco",23,174,None,"Left","M",,None,None
+1461320,"Mohamed Loumim",24,"Morocco",24,,None,,"M",,None,None
+1613042,"Issa M'bareck",21,"Mauritania",13,,None,,"M",,None,None
+1482836,"Benjamin Tanimu",23,"Nigeria",28,175,None,"Right","D",245000,None,None
+812947,"Kevin Yamga",29,"France",17,187,None,"Right","D",720000,None,None
+1008599,"Abdelilah Madkour",25,"Morocco",29,,None,"Right","D",360000,None,None
+826571,"Zakaria Hamadi",27,"Italy",3,175,None,"Left","D",285000,None,None
+1004523,"Hamza Ait Allal",24,"Morocco",22,184,None,"Right","D",370000,None,None
+316583,"Adil Rhaili",34,"Morocco",13,192,None,"Left","D",130000,None,None
+1619134,"Driss El-Jabli",27,"Morocco",32,187,None,"Right","D",415000,None,None
+1103558,"Marouane Ouhrou",23,"Morocco",21,178,None,"Left","D",335000,None,None
+919474,"Saad Ait Khorsa",31,"Morocco",4,186,None,"Left","D",365000,None,None
+1004426,"Ayman Chabani",27,"Morocco",5,189,None,"Right","D",180000,None,None
+1011278,"Reda Mhannaoui",26,"Morocco",15,171,None,"Right","D",220000,None,None
+1140820,"Salaheddine Chihab",32,"Morocco",99,198,None,"Right","G",970000,None,None
+1997651,"Walid Lghrissi",17,"Morocco",,,None,,"G",,None,None
+1845576,"Oussama Errahmany",22,"Morocco",12,195,None,"Both","G",160000,None,None
+2150417,"Adam   Brika",,,26,,None,,"",,None,None
+1936634,"Akram Khalifi",,,36,,None,,"",,None,None
+2119654,"Mohamed Amine Ouakef",,,31,,None,,"",,None,None
+2268623,"Bi Djessan",22,"Côte d'Ivoire",90,,None,,"",,None,None
+1008621,"Ismail Khafi",30,"Morocco",9,183,None,"Both","F",410000,None,None
+1016143,"Victor Ábrego",28,"Bolivia",20,177,None,"Right","F",320000,None,None
+1186787,"Youness Najari",29,"Morocco",14,186,None,"Left","F",410000,None,None
+2146456,"Ilyass Faiz",18,"Morocco",25,176,None,"Right","F",,None,None
+796155,"Sabir Bougrine",29,"Morocco",34,173,None,"Right","M",640000,None,None
+1102955,"Pape Ousmane Sakho",28,"Senegal",79,173,None,"Right","M",68000,None,None
+544532,"Bilal Ould-Chikh",28,"Morocco",10,170,None,"Left","M",825000,None,None
+1605928,"Mouad Dahak",20,"Morocco",21,165,None,"Right","M",930000,None,None
+797021,"Adam Ennafati",31,"Morocco",77,180,None,"Right","M",980000,None,None
+1213240,"Othmane Chraibi",22,"Morocco",19,175,None,"Right","M",260000,None,None
+970835,"Mohamed Al Makahasi",30,"Morocco",23,177,None,"Right","M",760000,None,None
+330025,"Moses Orkuma",31,"Nigeria",16,171,None,"Left","M",680000,None,None
+1952096,"Ayoub Maamouri",25,"Morocco",11,170,None,"Right","M",370000,None,None
+1008280,"Hilal Ferdaoussi",26,"Morocco",8,177,None,"Right","M",440000,None,None
+919484,"Youssef Belammari",27,"Morocco",17,183,None,"Left","D",1500000,None,None
+906597,"Badr Benoun",32,"Morocco",13,193,None,"Right","D",875000,None,None
+970819,"Mohamed Boulacsout",27,"Morocco",7,179,None,"Both","D",845000,None,None
+1502265,"Mehdi Mchakh'chekh",21,"Morocco",33,183,None,"Right","D",410000,None,None
+1168799,"Bouchaib Arrassi",25,"Morocco",6,190,None,"Right","D",300000,None,None
+971021,"Ismail Mokadem",30,"Morocco",4,176,None,"Right","D",480000,None,None
+970766,"Abdellah Khafifi",32,"Morocco",5,183,None,"Right","D",570000,None,None
+919701,"Abdelkarim Baadi",29,"Morocco",2,173,None,"Left","D",310000,None,None
+2022156,"Saad Farid",20,"Morocco",38,175,None,"Right","D",,None,None
+1140885,"Mehdi Al Harrar",25,"Morocco",1,192,None,"Right","G",720000,None,None
+1009912,"Khalid Kbiri Alaoui",29,"Morocco",12,192,None,,"G",570000,None,None
+1168539,"Zoubir Yassine",23,"Morocco",32,192,None,"Right","G",,None,None
+2143826,"Abderrazak El Wadi",,"Morocco",50,,None,,"G",,None,None
+1919278,"Zouhir Eddib",23,"Morocco",99,183,None,"Right","F",250000,None,None
+1404064,"Imad Khannouss",32,"Morocco",59,179,None,"Both","F",130000,None,None
+2033440,"Yassine Senhaji",19,"Morocco",77,181,None,"Right","F",24000,None,None
+1525540,"Abdellatif Benkassou",22,"Morocco",21,,None,"Right","F",260000,None,None
+1140850,"Mustapha Sahd",32,"Morocco",20,183,None,"Right","F",340000,None,None
+2033781,"Cruz Ndong Biteghe",24,"Gabon",12,,None,,"F",,None,None
+2313076,"Bouabid Bouden",43,"Morocco",,177,None,"Right","F",,None,None
+939864,"Ismael Benktib",27,"Morocco",27,180,None,"Right","M",490000,None,None
+919761,"Larbi Naji",34,"Morocco",29,183,None,"Right","M",440000,None,None
+1461306,"Mouad Goulouss",32,"Morocco",10,171,None,"Right","M",250000,None,None
+884821,"Youssef Anouar",35,"Morocco",7,165,None,"Right","M",320000,None,None
+1919308,"Mohamed Gharmal ",37,"Morocco",25,177,None,,"M",,None,None
+1919284,"Adnane Berdad",32,"Morocco",6,,None,"Right","M",255000,None,None
+1632047,"Younes Sakhi",25,"Morocco",17,187,None,"Both","M",160000,None,None
+919951,"Amine Dghoughi",33,"Morocco",8,174,None,"Right","M",170000,None,None
+1020148,"Achraf Hmaidou",25,"Morocco",14,176,None,"Right","M",350000,None,None
+1919295,"Mohamed Zinaf",22,"Morocco",11,,None,,"M",52000,None,None
+1103646,"Yacoub El Id",24,"Mauritania",15,181,None,,"M",,None,None
+919690,"Zakaria Nassik",28,"Morocco",3,177,None,"Left","D",260000,None,None
+359282,"Yassine Jbira",29,"Morocco",13,172,None,"Left","D",285000,None,None
+1009758,"Youssef Limouri",26,"Morocco",5,,None,,"D",580000,None,None
+1433799,"Chams Eddine Knaidil",22,"Morocco",3,,None,"Left","D",310000,None,None
+1016040,"Driss El Abdi",32,"Morocco",31,,None,"Left","D",52000,None,None
+1525316,"Oussama Daoui",,"Morocco",,,None,"Right","",310000,None,None
+977069,"Imran Fiddi",,"Morocco",,173,None,"Right","",140000,None,None
+1140959,"Karim El Bounagate",,"Morocco",,185,None,"Left","",185000,None,None
+1401580,"Anass Nouader",,"Morocco",,182,None,,"",255000,None,None
+1545318,"Hamza Malki",,"Morocco",,,None,,"",,None,None
+1924082,"Ayoub Lourhraz",,"Morocco",,171,None,"Right","",49000,None,None
+953991,"Reda Bounaga",,"Morocco",,187,None,"Right","",73000,None,None
+
+919469,"Aymane Majid",30,"Morocco",13,182,None,,"G",465000,None,None
+2045637,"Soufiane Taher",,,44,,None,,"",,None,None
+2029640,"Oussama Msahli",,,29,,None,,"",,None,None
+2045636,"Mostafa Marroun",,,23,,None,,"",,None,None
+2146480,"Ibrahim El Hajjami",,,62,,None,,"",,None,None
+2045584,"Yassine Senhaji",,,77,181,None,"Right","",,None,None
+1954173,"Exauce Marius Mbou",21,"Congo Republic",17,,None,,"",,None,None
+1140833,"Oussama Lamlioui",29,"Morocco",9,180,None,"Both","F",850000,None,None
+2203635,"Youness El Kaabi",24,"Morocco",24,185,None,"Right","F",80000,None,None
+1102957,"Paul Bassène",24,"Senegal",28,178,None,"Left","F",380000,None,None
+1155596,"Mamadou Lamine Camara",22,"Senegal",6,193,None,"Right","M",1400000,None,None
+1182584,"Youssef Mehri",26,"Morocco",11,177,None,"Right","M",1000000,None,None
+845274,"Mounir Chouiar",26,"Morocco",23,178,None,"Right","M",2600000,None,None
+1170317,"Imad Riahi",25,"Morocco",18,178,None,"Right","M",440000,None,None
+978956,"Ayoub Khairi",25,"Morocco",8,,None,,"M",1300000,None,None
+366156,"Zinédine Machach",29,"France",29,185,None,"Right","M",670000,None,None
+1114480,"Reda Hajji",25,"Morocco",35,,None,"Right","M",105000,None,None
+297510,"Rayane Aabid",33,"France",14,178,None,"Right","M",73000,None,None
+919532,"Yassine Labhiri",31,"Morocco",17,178,None,"Right","M",820000,None,None
+1166995,"Soumaila Sidibe",27,"Mali",5,178,None,"Right","M",520000,None,None
+919671,"Mohamed El Morabit",27,"Morocco",10,179,None,"Right","M",485000,None,None
+1823726,"Mohammed Ouyahya",20,"Morocco",32,176,None,"Right","M",26000,None,None
+1401535,"Amine Azri",30,"Morocco",21,185,None,"Left","M",465000,None,None
+934196,"Ismael Kandouss",28,"Morocco",27,192,None,"Right","D",1900000,None,None
+867180,"Oussama Haddadi",33,"Tunisia",4,184,None,"Left","D",180000,None,None
+1140803,"Abdelhak Assal",27,"Morocco",13,190,None,"Right","D",725000,None,None
+1095727,"Haytam Manaout",24,"Morocco",20,179,None,"Right","D",1100000,None,None
+782542,"Hamza El Moussaoui",32,"Morocco",19,181,None,"Left","D",825000,None,None
+1014377,"Et-Tayeb Boukhriss",26,"Morocco",33,177,None,"Right","D",515000,None,None
+1525293,"Amine El Maswab",25,"Morocco",2,,None,"Left","D",110000,None,None
+970592,"Mohamed Aymen Sadil",31,"Morocco",3,,None,"Left","D",45000,None,None
+141967,"Munir Mohamedi",36,"Morocco",1,190,None,"Right","G",770000,None,None
+970755,"Mehdi Maftah",32,"Morocco",12,190,None,"Right","G",325000,None,None
+1118615,"Bilal Kamal",27,"Morocco",16,,None,,"G",,None,None
+2265493,"Yassine Jabrane",25,"Morocco",91,190,None,"Left","F",79000,None,None
+1525321,"Soufiane Jazouli",29,"Morocco",97,,None,"Left","F",,None,None
+1140863,"Mohssine Abba",25,"Morocco",77,178,None,"Left","F",52000,None,None
+2161834,"Brahim Ait Hammou",27,"Morocco",98,,None,"Right","F",80000,None,None
+1923105,"Reda Abardi",33,"Morocco",62,,None,"Right","F",165000,None,None
+2161830,"Amine Aghou",27,"Morocco",26,178,None,"Right","F",130000,None,None
+2161837,"Salah Eddine Essalehy",21,"Morocco",11,,None,,"F",,None,None
+2161838,"Salah Eddine Abderahim",21,"Morocco",17,178,None,"Both","F",,None,None
+2161833,"Ayoub Benaadi ",32,"Morocco",2,,None,,"M",240000,None,None
+1103074,"Charaf-Eddine Boulahroud",24,"Morocco",29,180,None,"Right","M",,None,None
+1387222,"Hamza Janan Allah",25,"Morocco",37,,None,"Left","M",79000,None,None
+1525311,"Mohamed Habbali",33,"Morocco",7,166,None,,"M",210000,None,None
+2161839,"Mohamed Adjar",22,"Morocco",20,,None,,"M",26000,None,None
+2161841,"Hamza Saoud",29,"Morocco",10,,None,,"M",130000,None,None
+2161827,"Khalid Raiss",22,"Morocco",38,185,None,,"M",,None,None
+2161840,"Redouane Oubidar",27,"Morocco",6,,None,"Right","M",155000,None,None
+2161842,"Mounir El Gouj",22,"Morocco",21,,None,,"M",,None,None
+2161847,"Brahim Amzili",32,"Morocco",13,,None,"Right","M",130000,None,None
+2161831,"Anass Aziz",21,"Morocco",14,,None,,"M",,None,None
+2161829,"Youssef Fahmi",28,"Morocco",24,,None,"Right","M",52000,None,None
+2265485,"Omar Ouddah",27,"Morocco",25,179,None,"Both","M",23000,None,None
+2265476,"Mohamed Hamdi",32,"Morocco",55,175,None,"Right","M",,None,None
+1525302,"Hicham Ait Brahim",29,"Morocco",15,,None,"Right","D",190000,None,None
+1464128,"Cheick Keita",26,"Mali",32,188,None,"Right","D",165000,None,None
+2161828,"Ameur Aboujemaa",21,"Morocco",5,187,None,"Left","D",115000,None,None
+1014438,"Younes El Khafi",31,"Morocco",3,175,None,"Left","D",82000,None,None
+1004432,"Yassine Boughaz",32,"Morocco",8,177,None,"Right","D",26000,None,None
+2161824,"Abdullah Mani",22,"Morocco",38,,None,,"D",,None,None
+2265465,"Ismail Soubai",25,"Morocco",4,182,None,"Right","D",26000,None,None
+1140956,"Mouhcine Boumlik",28,"Morocco",19,184,None,"Left","D",27000,None,None
+2161843,"Mohamed Idar",39,"Morocco",1,,None,"Right","G",52000,None,None
+2161835,"Tarik Kotobi",29,"Morocco",12,,None,,"G",,None,None
+2161845,"Hafid Id Said",27,"Morocco",22,184,None,"Right","G",,None,None
+1874639,"Abdallah Ziani",22,"Morocco",77,167,None,"Right","F",165000,None,None
+1029681,"Romuald Dacosta",25,"Senegal",80,182,None,"Both","F",220000,None,None
+1404139,"Yassine Lamine",26,"Morocco",9,179,None,,"F",235000,None,None
+1140816,"Abderrazak Ennakouss",24,"Morocco",17,190,None,"Left","F",120000,None,None
+2296501,"Imad Sabik",28,"Morocco",7,,None,,"F",,None,None
+2125677,"Achraf  Idrissi",25,"Morocco",99,,None,"Left","F",,None,None
+1140961,"Khalid Baba",25,"Morocco",11,,None,,"M",535000,None,None
+912144,"Moctar El Hacen",27,"Mauritania",18,181,None,"Right","M",325000,None,None
+1525299,"Brahim El Idrissi Bouzidi",25,"Morocco",6,181,None,"Right","M",335000,None,None
+1920160,"Hiudaifa Jamaane",19,"Morocco",19,,None,"Right","M",,None,None
+1177366,"Mouad Mouchtanim",26,"Morocco",10,,None,"Left","M",24000,None,None
+1140899,"Youssef Michte",26,"Morocco",88,178,None,"Right","M",325000,None,None
+2161836,"Ayoub El Khaffi",26,"Morocco",8,,None,,"M",24000,None,None
+2127598,"Mohamed Hilali",26,"Morocco",21,,None,,"M",26000,None,None
+919555,"Marouane Hadhoudi",33,"Morocco",15,190,None,"Right","D",320000,None,None
+2002209,"Abdoulaye Sanogo",21,"Mali",5,187,None,"Right","D",24000,None,None
+1140962,"Mohamed Bentarcha",27,"Morocco",14,185,None,"Right","D",165000,None,None
+1004256,"Marouane Lemzaouri",32,"Morocco",4,,None,,"D",305000,None,None
+919738,"Achraf El Idrissi",30,"Morocco",,172,None,"Right","M",195000,None,None
+1004256,"Marouane Lemzaouri",32,"Morocco",4,,None,,"D",305000,None,None
+1004427,"Omar Jerrari",31,"Morocco",13,177,None,"Left","D",480000,None,None
+1919273,"Yassine Fatine",29,"Morocco",20,183,None,"Both","D",285000,None,None
+1919290,"Soufiane Abaaziz",27,"Morocco",23,179,None,"Left","D",205000,None,None
+1919297,"Oussama Benchchaoui",24,"Morocco",2,178,None,"Right","D",69000,None,None
+1919330,"Hadi Idrissou",23,"Togo",,186,None,"Right","D",26000,None,None
+1919307,"Aymane Takoua",21,"Morocco",55,191,None,"Left","D",,None,None
+2268400,"Zakaria Oubraim",23,"Morocco",24,,None,,"D",,None,None
+794543,"Babacar Niasse",29,"Mauritania",30,195,None,"Right","G",425000,None,None
+970634,"Marouane Bessak",29,"Morocco",1,190,None,"Right","G",190000,None,None
+1920270,"Ayoub Ait Wahmane",24,"Morocco",16,,None,,"G",,None,None
+2140735,"Younes Essalaoui",,,34,,None,,"",,None,None
+1916066,"Papa Magueye Gaye",19,"Senegal",72,,None,,"F",,None,None
+1004247,"Jawad Rhabra",31,"Morocco",19,184,None,"Both","F",295000,None,None
+1897485,"Livty Kpolo",23,"France",38,,None,,"F",26000,None,None
+1014439,"Jawad Ghabra",31,"Morocco",19,184,None,,"F",,None,None
+2265920,"Nawfal Chninak",19,"Morocco",64,180,None,,"F",,None,None
+788969,"Mohsine Moutouali",39,"Morocco",5,174,None,"Right","M",80000,None,None
+285941,"Zakaria Bakkali",29,"Belgium",99,168,None,"Right","M",185000,None,None
+981300,"Ennaama El Bellali",27,"Morocco",20,189,None,"Right","M",320000,None,None
+1004260,"Zakaria Kiani",28,"Morocco",22,170,None,"Right","M",465000,None,None
+1185396,"Hamza El Moudene",30,"Morocco",21,,None,"Right","M",245000,None,None
+930851,"Siriki Sanogo",24,"Côte d'Ivoire",79,178,None,"Left","M",130000,None,None
+919527,"Ahmed Chentouf",29,"Morocco",16,,None,"Right","M",77000,None,None
+1004540,"Faouzi Abdoul Mutalib",32,"Morocco",8,,None,,"M",295000,None,None
+1004547,"Haytham El Bahja",32,"Morocco",14,175,None,"Left","M",250000,None,None
+782500,"Anas Lamrabat",32,"Morocco",23,173,None,"Left","M",240000,None,None
+2050924,"Moussa Kote",,"Senegal",75,,None,,"M",,None,None
+2053850,"Adam Darazi",20,"France",27,172,None,"Right","M",,None,None
+2007231,"Louay El Moussaoui",,"Morocco",49,,None,,"M",,None,None
+359288,"Mohamed Saoud",29,"Morocco",4,185,None,"Right","D",385000,None,None
+882322,"Badr Gaddarine",28,"Morocco",97,178,None,"Left","D",475000,None,None
+1140920,"Bilal El Ouadghiri",24,"Morocco",6,186,None,,"D",465000,None,None
+1140846,"Oussama Al Aiz",26,"Morocco",13,,None,,"D",270000,None,None
+1919291,"Akram El Wahabi",21,"Spain",24,,None,,"D",,None,None
+1875400,"Mohamed El Guartit",20,"Morocco",34,,None,"Right","D",,None,None
+966618,"Malcolm Barcola",26,"Togo",,195,None,"Right","G",48000,None,None
+1107604,"Amine El Ouaad",30,"Morocco",1,188,None,"Right","G",360000,None,None
+1095734,"Youssef Laghzal",24,"Morocco",73,,None,,"G",52000,None,None
+1954144,"Youssef Ezzarradi",,"Morocco",50,,None,,"",,None,None
+1974176,"Achraf El Quaraoui",,,48,,None,,"",,None,None
+997038,"Zacarias Ghailan",23,"Morocco",19,173,None,"Right","F",135000,None,None
+1923776,"Ahmed Rhailouf",21,"Morocco",11,188,None,"Right","F",215000,None,None
+1095733,"Taha Alachbili",24,"Morocco",8,175,None,"Right","F",,None,None
+1525284,"Abdelaziz El Hamzaoui",33,"Morocco",17,183,None,"Left","F",185000,None,None
+1994372,"Marouane Oujeddou",21,"Morocco",16,,None,,"F",,None,None
+1140894,"Zakaria Bahrou",28,"Morocco",7,183,None,"Right","F",490000,None,None
+1013427,"Mountassir Lahtimi",24,"Morocco",21,180,None,"Left","M",360000,None,None
+1407530,"Zakaria Fatihi",27,"Morocco",17,175,None,,"M",215000,None,None
+1942512,"Faffa El Yazid",24,"Morocco",11,169,None,"Right","M",260000,None,None
+1957278,"Ishak Zidani",24,"Morocco",4,188,None,"Right","M",405000,None,None
+1095721,"Abdellah Farah",24,"Morocco",14,,None,,"M",195000,None,None
+919342,"Mohammad El Fakih",35,"Morocco",5,175,None,"Right","M",52000,None,None
+919462,"Ayoub Joulale",27,"Morocco",8,,None,"Right","M",,None,None
+1525294,"Anass El Ghannouj",28,"Morocco",17,171,None,,"M",235000,None,None
+1140829,"Reda Lakhmidi",25,"Morocco",99,178,None,"Right","M",,None,None
+1095728,"Ismail Gourad",24,"Morocco",72,,None,"Left","M",27000,None,None
+1919276,"Abdellatif El Bajjani",30,"Morocco",6,173,None,"Both","M",205000,None,None
+1010827,"Moustapha Chichane",34,"Morocco",18,180,None,"Right","M",24000,None,None
+1457867,"Ousmane Diallo",26,"Mali",3,181,None,"Left","D",120000,None,None
+1140818,"Abdessamad Badaoui",26,"Morocco",66,,None,"Right","D",260000,None,None
+1525306,"James Ajako",22,"Nigeria",2,178,None,"Left","D",475000,None,None
+1140911,"Aymane El Aouani",25,"Morocco",98,,None,"Left","D",380000,None,None
+1468076,"Reda Ait Boughima",25,"Morocco",66,181,None,"Right","D",,None,None
+1000440,"Youssef Aoujdal",23,"Morocco",20,181,None,"Right","D",,None,None
+1546502,"Ayoub Tine",33,"Morocco",27,175,None,"Right","D",93000,None,None
+919768,"Zouheir El Hachemi",27,"Morocco",23,177,None,"Right","D",310000,None,None
+1140922,"Bilal Soufi",26,"Morocco",15,,None,,"D",220000,None,None
+1004249,"Mehdi El Jourbaoui",32,"Morocco",95,190,None,"Left","G",310000,None,None
+919632,"Aissa Sioudi",28,"Morocco",1,188,None,,"G",80000,None,None
+1008634,"Mohamed Ferni",26,"Morocco",22,186,None,"Right","G",220000,None,None
+1939981,"Jawad Essaghir",,"Morocco",38,,None,,"",,None,None
+2051799,"Ayman Mellali",,,69,,None,,"",,None,None
+2268625,"Saad Nassik",22,,32,,None,,"",,None,None
+2268627,"Amine Balich",22,"Morocco",25,,None,,"",,None,None
+1063163,"Walid Jarmouni",25,"France",9,189,None,"Left","F",410000,None,None
+2003720,"Baba Ilou",20,"Cameroon",17,185,None,"Right","F",230000,None,None
+1140842,"Aziz Kaidi",29,"Morocco",17,183,None,"Right","F",195000,None,None
+1597138,"Mohamed Amine Katiba",19,"Morocco",20,181,None,"Right","M",590000,None,None
+972819,"Rodrigue Kossi",25,"Benin",16,179,None,"Right","M",240000,None,None
+1597137,"Mehdi Akoumi",19,"Morocco",32,172,None,"Right","M",130000,None,None
+1182630,"Mohamed Bakhkhach",23,"Morocco",7,,None,"Right","M",410000,None,None
+864774,"Jose Dembi",30,"Congo Republic",95,184,None,"Right","M",290000,None,None
+997190,"Ayoub Yousfi Amkadmi",22,"Spain",11,179,None,"Left","M",,None,None
+372340,"Ange-Freddy Plumain",30,"Guadeloupe",15,182,None,"Right","M",345000,None,None
+1947611,"Hamza Moumadi",20,"Morocco",13,,None,"Right","M",27000,None,None
+1461782,"Zakaria Ami",23,"Morocco",8,176,None,"Right","M",390000,None,None
+1182631,"Fahd Bendahmane",24,"Morocco",33,174,None,"Both","M",275000,None,None
+1013197,"Jalal Tachtach",31,"Morocco",5,174,None,"Right","M",415000,None,None
+1140799,"Abdallah Boukhanfer",27,"Morocco",10,185,None,"Left","M",260000,None,None
+1525286,"Abdellah Ait Brayim",22,"Morocco",14,,None,"Left","M",115000,None,None
+1140843,"Badreddine Octobre",19,"Morocco",3,178,None,"Right","M",,None,None
+1140843,"Badreddine Octobre",19,"Morocco",3,178,None,"Right","M",,None,None
+1866207,"Hamza El Belghyty",20,"Morocco",16,170,None,"Right","M",,None,None
+2065684,"Mehdi Akoumi",19,"Morocco",32,,None,,"M",,None,None
+975173,"Euclides Cabral",26,"Portugal",19,178,None,"Right","D",380000,None,None
+1634303,"Zakary Lamgahez",22,"France",18,185,None,"Right","D",145000,None,None
+1592863,"Assane Beye",25,"Senegal",25,180,None,"Left","D",385000,None,None
+988630,"Nassim Ouammou",32,"France",21,182,None,"Right","D",185000,None,None
+1990600,"Ayman Tarrazi",20,"Morocco",27,180,None,"Right","D",,None,None
+1008871,"Soulaiman El Amrani",28,"Morocco",30,181,None,,"D",410000,None,None
+1655428,"Ismail Hrila",21,"Morocco",34,189,None,"Right","D",135000,None,None
+1937706,"Youness El Amali",21,"Morocco",36,177,None,"Left","D",,None,None
+2046419,"Akram Haimoud",21,"Morocco",30,179,None,"Right","D",,None,None
+1606005,"Ilyass Motik",20,"Morocco",31,192,None,"Right","G",96000,None,None
+1463237,"Badreddine Abyir",27,"Morocco",61,,None,"Left","G",340000,None,None
+1089964,"Hicham El Mejhed",35,"Morocco",65,193,None,"Right","G",140000,None,None
+1984507,"Hisham El Majhad",,"Morocco",65,,None,,"G",,None,None
+2012060,"Anis Zouagui",,,22,,None,,"",,None,None
+2143879,"Souali Nasallah",,"Morocco",46,,None,,"",,None,None
+1937707,"Ayoub Kazbat",,,31,,None,,"",,None,None
+1923951,"Ali El  Moussia",,,19,,None,,"",,None,None
+2169554,"Younes El Bahraoui",20,"Morocco",47,180,None,"Right","F",245000,None,None
+141072,"Khalid Boutaïb",38,"Morocco",10,190,None,"Right","F",120000,None,None
+1484767,"Hamza Founti",25,"Morocco",7,,None,"Left","F",,None,None
+1870410,"Souleymane Cissé",25,"Senegal",18,182,None,"Right","F",81000,None,None
+1525303,"Ibrahim El Omari",29,"Morocco",,190,None,"Right","F",23000,None,None
+1099412,"Ousseni Badamassi",28,"Niger",18,,None,,"M",49000,None,None
+919954,"Youssef Zghoudi",33,"Morocco",17,182,None,"Both","M",230000,None,None
+1140943,"Oussama Mahrous",30,"Morocco",5,,None,,"M",240000,None,None
+1140945,"Hamza El Janati",26,"Morocco",6,183,None,"Right","M",515000,None,None
+1596891,"Gnolou Claude",23,"Côte d'Ivoire",35,170,None,"Right","M",385000,None,None
+1471617,"Ismail Mihrab",29,"Morocco",19,173,None,"Left","M",360000,None,None
+1592653,"Oussama Haffari",26,"Morocco",99,170,None,"Left","M",,None,None
+1488437,"Youssef Riani",27,"Morocco",24,186,None,"Left","M",105000,None,None
+1170665,"Nadir  Lougmani",23,"Morocco",77,173,None,,"M",230000,None,None
+1140927,"Saleh Al Sellami",29,"Morocco",11,,None,"Right","M",180000,None,None
+1494677,"Khalil Tamrani",24,"Morocco",8,,None,,"M",,None,None
+1006303,"Johnstone Omurwa",27,"Kenya",55,183,None,"Right","D",465000,None,None
+1655335,"Ismail Gazaoui",27,"Morocco",2,,None,,"D",,None,None
+1008879,"Jawad Khallouki",27,"Morocco",,174,None,"Left","D",24000,None,None
+1408170,"Mohamed Elabdi",28,"Morocco",31,180,None,"Left","D",140000,None,None
+1160527,"Salifou Massoudi",21,"Niger",,,None,"Both","D",,None,None
+1538716,"Mouhamed Wele",23,"Senegal",,187,None,"Left","D",,None,None
+2169552,"Mohamed Benhita",19,"Morocco",4,188,None,,"D",,None,None
+1413546,"Ismail El Alami",25,"Morocco",44,190,None,"Right","D",,None,None
+1009910,"Jad Assouab",30,"Morocco",15,189,None,"Right","D",345000,None,None
+1519084,"Hamza Fassoukh",26,"Morocco",26,175,None,"Right","D",,None,None
+2294929,"Redouane Mennioui",26,"Morocco",13,,None,,"D",,None,None
+2267001,"Akram  El Hamdaoui",30,"Morocco",12,,None,,"D",170000,None,None
+2293695,"Hamza Smaali",26,"Morocco",14,,None,,"D",,None,None
+1140875,"Mohamed Jemjami",26,"Morocco",22,188,None,"Right","G",140000,None,None
+919662,"Mohamed Baayou",32,"Morocco",1,185,None,"Right","G",52000,None,None
+2162072,"Anass Rachak",18,"Morocco",,190,None,"Right","G",,None,None
+2169549,"Naoufal  Ait Oubna",,"Morocco",37,,None,,"G",,None,None
+1095725,"Ayoub Mouloua",23,"Morocco",9,183,None,"Right","F",670000,None,None
+1416350,"Mohamed El Badoui",26,"Morocco",17,184,None,"Right","F",280000,None,None
+1471574,"Ali El Harrak",28,"Morocco",30,,None,"Both","F",290000,None,None
+1605031,"Arthur Gitego",23,"Rwanda",66,190,None,,"F",46000,None,None
+1020959,"Amine Souane",24,"Morocco",14,182,None,"Right","M",1000000,None,None
+1140870,"Ismail Moutaraji",25,"Morocco",5,180,None,"Left","M",320000,None,None
+1855780,"Anas El Makkaoui",20,"Morocco",16,181,None,"Right","M",130000,None,None
+1140933,"Chouaib Faidi",26,"Morocco",7,175,None,"Right","M",230000,None,None
+1004248,"Anas Serrhat",29,"Morocco",5,178,None,"Right","M",800000,None,None
+1140934,"Salaheddine Benyachou",26,"Morocco",10,168,None,"Right","M",185000,None,None
+919485,"Lamine Diakité",34,"Côte d'Ivoire",11,184,None,"Left","M",315000,None,None
+1655612,"Soufiane Et Tazi",21,"Morocco",49,181,None,"Right","M",580000,None,None
+1021152,"Oussama Raoui",23,"Morocco",26,176,None,"Right","M",245000,None,None
+1022302,"Abdessamad Mahir",28,"Morocco",8,176,None,"Right","M",675000,None,None
+1112763,"Amine Farhane",27,"Morocco",15,189,None,"Right","D",260000,None,None
+1461307,"Yassine Amhih",22,"Morocco",4,,None,"Right","D",420000,None,None
+1015235,"Oussama Soukhane",26,"Morocco",47,179,None,"Left","D",630000,None,None
+970834,"Houdaifa El Mahasni",26,"Morocco",22,165,None,"Right","D",670000,None,None
+919942,"Amine El Msane",31,"Morocco",3,,None,"Left","D",580000,None,None
+1140857,"Mouad Bahsain",26,"Morocco",6,180,None,"Left","D",430000,None,None
+1140958,"Moncef Amri",32,"Morocco",33,180,None,"Left","D",295000,None,None
+2038163,"Abdesalem Achnab",,,32,,None,,"D",,None,None
+919749,"Ayoub Lakred",29,"Morocco",36,188,None,"Right","G",380000,None,None
+1212072,"Rachid Ghanimi",23,"Morocco",1,189,None,,"G",360000,None,None
+1597135,"Taha Benrhozil",19,"Morocco",12,182,None,"Right","G",215000,None,None
+2142460,"Imrane Sadiki",19,"Morocco",68,,None,,"G",,None,None
+2351784,"Walid El Hani",,,25,,None,,"",,None,None
+1112630,"Ilyas Bougafer",22,"Morocco",,182,None,"Right","F",,None,None
+919685,"Anas Jabroun",28,"Morocco",11,169,None,"Right","F",69000,None,None
+1525309,"Mehdi Balouk",30,"Morocco",2,,None,,"F",195000,None,None
+2267315,"Brahim Mansouri",29,"Morocco",21,,None,"Right","F",185000,None,None
+2267314,"Mouhcine Boussanane",33,"Morocco",9,182,None,"Right","F",77000,None,None
+2267339,"Saad Salih",22,"Morocco",,183,None,"Left","F",,None,None
+281093,"Soufyan Ahannach",30,"Netherlands",23,173,None,"Right","M",310000,None,None
+919770,"Zakaria Fati",33,"Morocco",7,176,None,"Right","M",235000,None,None
+2267305,"Jalal-Eddine El Khfiyef",25,"Morocco",10,165,None,"Left","M",170000,None,None
+2267304,"Adil Khalloufi",26,"Morocco",33,,None,,"M",180000,None,None
+1401968,"Ayoub Bouadli",26,"Morocco",6,173,None,"Right","M",,None,None
+2267331,"Fahd El Kaaba",21,"Morocco",77,,None,,"M",,None,None
+2267337,"Moad Kharjan",28,"Morocco",5,,None,,"M",24000,None,None
+2267307,"Youssef Legnibi",30,"Morocco",16,183,None,"Both","M",24000,None,None
+2267308,"Mohamed Ahayaoui",23,"Morocco",19,,None,,"M",,None,None
+2267327,"Anas Alami Harraki",21,"Morocco",,180,None,"Both","M",,None,None
+2267329,"Anas Lagziri",31,"Morocco",,,None,,"M",,None,None
+2267334,"Ibrahim Boumalk",27,"Morocco",,,None,"Left","M",,None,None
+1014435,"Zouhair Marour",30,"Morocco",28,182,None,"Left","D",675000,None,None
+1020321,"Yassine Moursil",27,"Morocco",3,184,None,"Right","D",120000,None,None
+2267303,"Nassim Azzoubairi",30,"Morocco",8,,None,,"D",190000,None,None

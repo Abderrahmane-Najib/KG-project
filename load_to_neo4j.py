@@ -79,21 +79,33 @@ class Neo4jLoader:
         """Load player nodes."""
         print("Loading players...")
         df = pd.read_csv(os.path.join(NODES_DIR, "players.csv"))
-        df = df.fillna("")
+
+        # Handle numeric columns - convert to proper types, use None for missing
+        numeric_cols = ['age', 'height', 'current_club_id']
+        for col in numeric_cols:
+            if col in df.columns:
+                df[col] = pd.to_numeric(df[col], errors='coerce')
+
+        # Fill string columns with empty string, keep numeric NaN as None
+        string_cols = ['name', 'nationality', 'preferred_foot', 'preferred_positions', 'market_value']
+        for col in string_cols:
+            if col in df.columns:
+                df[col] = df[col].fillna("")
 
         query = """
         UNWIND $batch AS row
         MERGE (p:Player {id: row.id})
         SET p.name = row.name,
-            p.age = row.age,
+            p.age = CASE WHEN row.age IS NULL THEN null ELSE toInteger(row.age) END,
             p.nationality = row.nationality,
-            p.height = row.height,
+            p.height = CASE WHEN row.height IS NULL THEN null ELSE toInteger(row.height) END,
             p.preferred_foot = row.preferred_foot,
             p.preferred_positions = row.preferred_positions,
             p.market_value = row.market_value,
             p.current_club_id = row.current_club_id
         """
-        data = df.to_dict('records')
+        # Convert NaN to None for JSON serialization
+        data = df.where(pd.notnull(df), None).to_dict('records')
         self.run_query_batch(query, data)
         print(f"  Loaded {len(data)} players")
 
@@ -222,19 +234,25 @@ class Neo4jLoader:
         print("Loading stats...")
         df = pd.read_csv(os.path.join(NODES_DIR, "stats.csv"))
         df = df.dropna(subset=['id'])
-        df = df.fillna("")
+
+        # Convert all numeric columns to proper integers
+        numeric_cols = ['total_matches', 'total_goals', 'total_assists', 'total_yellow',
+                       'total_second_yellow', 'total_red', 'goals_conceded', 'clean_sheets']
+        for col in numeric_cols:
+            if col in df.columns:
+                df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0).astype(int)
 
         query = """
         UNWIND $batch AS row
         MERGE (s:Stats {id: row.id})
-        SET s.total_matches = row.total_matches,
-            s.total_goals = row.total_goals,
-            s.total_assists = row.total_assists,
-            s.total_yellow = row.total_yellow,
-            s.total_second_yellow = row.total_second_yellow,
-            s.total_red = row.total_red,
-            s.goals_conceded = row.goals_conceded,
-            s.clean_sheets = row.clean_sheets
+        SET s.total_matches = toInteger(row.total_matches),
+            s.total_goals = toInteger(row.total_goals),
+            s.total_assists = toInteger(row.total_assists),
+            s.total_yellow = toInteger(row.total_yellow),
+            s.total_second_yellow = toInteger(row.total_second_yellow),
+            s.total_red = toInteger(row.total_red),
+            s.goals_conceded = toInteger(row.goals_conceded),
+            s.clean_sheets = toInteger(row.clean_sheets)
         """
         data = df.to_dict('records')
         self.run_query_batch(query, data)
